@@ -120,6 +120,14 @@ FILMES  2020  TORRENT
 <info> Em um futuro próximo, a empresa de tecnologia Red-Eye está prestes a desenvolver uma lente de contato revolucionária que registra a visão humana para replicar as memórias. Quando o principal pesquisador da empresa é assassinado, o detetive Thomas Elliot (Greg Bryk) e a pesquisadora Margo Elson (Tommie Amber Pirie) são levados a pesquisar mais profundamente para apreender um metamorfo digital esquivo. Logo, ambos são ameaçados por seu passado enquanto procuram descobrir o que esta perigosa inteligência artificial está tentando consumir.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B]  TOGO  [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ffae6f9f32f14bac11630e654620666131d2f9ab&dn=LAPUMiA.Org%20-%20Togo%202020%205.1%20(720p-Mp4)&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.trackerfix.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&tr=udp%3a%2f%2feddie4.nl%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fzer0day.ch%3a1337%2fannounce</link>
+<thumbnail>https://br.web.img2.acsta.net/pictures/19/12/04/09/48/0873092.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>A história de um homem e sua equipe de cães puxadores de trenó que transportaram remédios para a população do Alasca, a fim de combater uma epidemia, durante a década de 20. Baseado em fatos reais.</info>
+</item>
+
 
 
 
