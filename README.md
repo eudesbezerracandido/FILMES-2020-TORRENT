@@ -161,6 +161,15 @@ O Dr. Dolittle vive com uma variedade de animais exóticos e conversa com eles d
 <info>Após aceitar se casar com o Príncipe Phillip (Harris Dickinson), Aurora (Elle Fanning) é imediatamente acolhida pela rainha, sua futura sogra (Michelle Pfeiffer), como se fosse sua própria filha. Revoltada, Malévola (Angelina Jolie) se opõe ao reino e reúne novos aliados para proteger as terras mágicas que compartilham</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] ESQUADRÃO 303 [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4591191ea5ba719816533ab5ec1953f78395792a&dn=COMANDOTORRENTSHD.NET%20-%20Esquadrao.303.2020.720p.BluRay.DD5.1.x264.DUAL-TDF&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.trackerfix.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&tr=udp%3a%2f%2feddie4.nl%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fzer0day.ch%3a1337%2fannounce</link>
+<thumbnail>https://1.bp.blogspot.com/-xyG_gR2wryQ/X2j2Q-I02oI/AAAAAAAAGMs/x_mbIXLb7AYx42GW8fwmdSzPlG5YwuLjgCLcBGAsYHQ/s750/ESQUADR%25C3%2583O%2B303.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Esta é a história do esquadrão de caças altamente respeitado, à quem serviram principalmente aviadores da Polônia, na história do combate aéreo e sua defesa heroica da Inglaterra durante as batalhas da 2ª guerra mundial.</info>
+</item>
+
+
 
 
 
