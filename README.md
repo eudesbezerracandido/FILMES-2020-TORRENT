@@ -169,6 +169,14 @@ O Dr. Dolittle vive com uma variedade de animais exóticos e conversa com eles d
 <info>Esta é a história do esquadrão de caças altamente respeitado, à quem serviram principalmente aviadores da Polônia, na história do combate aéreo e sua defesa heroica da Inglaterra durante as batalhas da 2ª guerra mundial.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] SANGUE DE PELICANO [/COLOR][/B][COLOR yellow] FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d59460bcf7ec6ffb95cc7f34d970605ce3ed3c7a&dn=COMANDO.TO%20-%20Sangue%20de%20Pelicano%202020%20[1080p-FULL]%20DUAL&tr=udp://tracker.openbittorrent.com:80/announce&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://tracker.coppersurfer.tk:6969/announce&tr=udp://glotorrents.pw:6969/announce&tr=udp://tracker4.piratux.com:6969/announce&tr=udp://coppersurfer.tk:6969/announce&tr=udp://retracker.lanta-net.ru:2710/announce&tr=udp://tracker.tiny-vps.com:6969/announce&tr=udp://open.stealth.si:80/announce&tr=udp://exodus.desync.com:6969/announce&tr=http://tracker.coppersurfer.tk:6969/announce&tr=http://bt.careland.com.cn:6969/announce&tr=http://exodus.desync.com:6969/announce&tr=udp://tracker.cyberia.is:6969/announce&tr=udp://public.popcorn-tracker.org:6969/announce&tr=udp://tracker.torrent.eu.org:451/announce&tr=udp://tracker.leechers-paradise.org:6969/announce&tr=http://exodus.desync.com/announce&tr=udp://9.rarbg.com:2710/announce&tr=udp://9.rarbg.me:2780/announce&tr=udp://9.rarbg.to:2730/announce</link>
+<thumbnail>https://pics.filmaffinity.com/Pelican_Blood-246329762-large.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uma mulher que treina cavalos policiais quer mais um filho e então adota uma criança, uma menina de 5 anos gravemente traumatizada. Quando a menina mostra comportamento violento e antissocial, sua nova mãe fica determinada a ajudá-la.</info>
+</item>
+
 
 
 
