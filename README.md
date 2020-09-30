@@ -175,7 +175,7 @@ O Dr. Dolittle vive com uma variedade de animais exóticos e conversa com eles d
 <thumbnail>https://pics.filmaffinity.com/Pelican_Blood-246329762-large.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Uma mulher que treina cavalos policiais quer mais um filho e então adota uma criança, uma menina de 5 anos gravemente traumatizada. Quando a menina mostra comportamento violento e antissocial, sua nova mãe fica determinada a ajudá-la.</info>
-</item>
+</item> 
 
 
 
