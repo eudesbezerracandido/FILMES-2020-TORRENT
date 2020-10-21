@@ -185,6 +185,15 @@ O Dr. Dolittle vive com uma variedade de animais exóticos e conversa com eles d
 <info> Aparições de UFOs, experiências de quase-morte e mediunidade, desafiam as leis da natureza e intrigam a humanidade há séculos. Cientistas e pesquisadores começam a decifrar as experiências extraordinárias de que a consciência possa ir fora do corpo físico, indo além para outras dimensões. Despertar - Data Limite permeia uma profunda reflexão sobre a evolução moral da humanidade, o progresso individual, a grandeza do universo, o fato de não estarmos sozinhos e os possíveis desdobramentos de um futuro próximo, aliado as previsões da Data Limite do médium brasileiro Chico Xavier.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] ADEUS [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3fb6b47c6090b6da0e90117076074a316c53dd4c&dn=COMANDO.TO%20-%20Adeus%202020%20%5b720p%5d%20%5bDUAL%5d&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fretracker.lanta-net.ru%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.tiny-vps.com%3a6969%2fannounce&tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce&tr=udp%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.cyberia.is%3a6969%2fannounce&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.torrent.eu.org%3a451%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2710%2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2780%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2730%2fannounce</link>
+<thumbnail>https://viatorrents.com/imagens/adeus-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um prisioneiro consegue permissão para participar da primeira comunhão da filha. Sua morte acidental durante um tiroteio na favela levanta um esquema de narcotráfico e corrupção policial. Cabe a policia cobrir o caso para impedir o pai de se vingar.</info>
+</item>
+
+
 
 
 
