@@ -265,6 +265,39 @@ O Dr. Dolittle vive com uma variedade de animais exóticos e conversa com eles d
 <info>Um objeto voador não identificado que vem do espaço muda a visão da humanidade sobre a vida em outros planetas. Quando os alienígenas desembarcam na terra, a destruição é documentada pelos moradores de um bairro residencial de Moscovo, que precisam sobreviver enquanto começam a questionar as motivações dos alienígenas.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] A ESCOLHIDA [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6988dc3cc64685f62a89ad2c99159c6252e4ba14</link>
+<thumbnail>https://br.web.img2.acsta.net/pictures/20/03/06/09/32/4240005.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Escolhida  – Veronica Henley (Janelle Monae) é uma célebre escritora que se vê presa em uma terrível realidade e precisará decifrar um mistério que a fará questionar tudo sobre seu passado, presente e futuro, antes que seja tarde</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] SEM CONEXÃO [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a54db9bf77d7eae33aefb27be11c99b2b9b64c98</link>
+<thumbnail>https://limaomecanico.com.br/wp-content/uploads/2020/10/Sem-Conexao.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Sem Conexão Torrent – Um grupo de jovens é mandado para um acampamento offline, para diminuir a dependência com a tecnologia, mas acabam tendo que lutar por suas vidas quando se deparam com algo que não achariam nem nos cantos mais sombrios da internet.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] A REDENÇÃO [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:56dfd7a8e6d14270d2fedf667f4c13fad93309a4</link>
+<thumbnail>https://media.fstatic.com/VNoDg0VWQV6ovKWKlywdycRHGgg=/290x478/smart/media/movies/covers/2019/12/The_Bravest.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>A Redenção Torrent – Um grupo de bravos bombeiros lida com uma série de incêndios depois que uma planta química explode. É uma corrida contra o tempo para os bombeiros, que se colocam em perigo para salvar aqueles nas proximidades</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] SEQUESTRO [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:119f71bd8af95dbef6210a5ce11a21c1465d85ce</link>
+<thumbnail>https://aventurasnahistoria.uol.com.br/media/uploads/sequestro_paris_filmes.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Sequestro Torrent – Sasha quer ser uma repórter de estrelas, mas está estagnada cobrindo eventos da comunidade na estação de TV local. No entanto, quando ela é sequestrada e mantida em cativeiro, e de repente se torna a história.</info>
+</item>
+
+
 
 
 
