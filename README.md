@@ -362,6 +362,14 @@ O Dr. Dolittle vive com uma variedade de animais exóticos e conversa com eles d
 <info> Os Miseráveis Torrent – Stéphane (Damien Bonnard) é um jovem que acaba de se mudar para Montfermeil e se junta ao esquadrão anti-crime da comuna. Colocado no mesmo time de Chris (Alexis Manenti) e Gwada (Djibril Zonga), dois homens de métodos pouco convencionais, ele logo se vê envolvido na tensão entre as diferentes gangues do local.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] KADAVER [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d06f83c34339d044c6a2593debf678c5356b7694</link>
+<thumbnail>https://br.web.img3.acsta.net/pictures/20/09/29/20/41/5122915.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Em tempos apocalípticos de fome, uma peça num hotel com jantar incluído atrai uma multidão. Mas uma família descobre que o preço a pagar é bem maior que o do ingresso.</info>
+</item>
+
 
 
 
