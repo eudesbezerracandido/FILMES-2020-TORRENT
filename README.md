@@ -297,6 +297,55 @@ O Dr. Dolittle vive com uma variedade de animais exóticos e conversa com eles d
 <info>Sequestro Torrent – Sasha quer ser uma repórter de estrelas, mas está estagnada cobrindo eventos da comunidade na estação de TV local. No entanto, quando ela é sequestrada e mantida em cativeiro, e de repente se torna a história.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] CONTRA ATAQUE [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9c3467ff409f62d3ae41d9db26c62925992f54fb&dn=COMANDO.TO%20-%20Contra-Ataque%202020%20[1080p]%20DUAL&tr=udp://tracker.openbittorrent.com:80/announce&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://tracker.coppersurfer.tk:6969/announce&tr=udp://glotorrents.pw:6969/announce&tr=udp://tracker4.piratux.com:6969/announce&tr=udp://coppersurfer.tk:6969/announce&tr=http://t2.pow7.com/announce&tr=udp://tracker.yify-torrents.com:80/announce&tr=http://www.h33t.com:3310/announce&tr=http://exodus.desync.com/announce&tr=http://tracker.coppersurfer.tk:6969/announce&tr=http://bt.careland.com.cn:6969/announce&tr=http://exodus.desync.com:6969/announce&tr=udp://tracker.publicbt.com:80/announce&tr=udp://tracker.istole.it:80/announce&tr=http://tracker.blazing.de/announce&tr=udp://tracker.openbittorrent.com:80/announce&tr=http://tracker.yify-torrents.com/announce&tr=udp://tracker.prq.to/announce&tr=udp://tracker.1337x.org:80/announce&tr=udp://9.rarbg.com:2740/announce&tr=udp://tracker.ex.ua:80/announce&tr=udp://ipv4.tracker.harry.lu:80/announce&tr=udp://12.rarbg.me:80/announce&tr=udp://tracker.publicbt.com:80/announce&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://11.rarbg.com/announce&tr=udp://tracker.ccc.de:80/announce&tr=udp://fr33dom.h33t.com:3310/announce&tr=udp://public.popcorn-tracker.org:6969/announce</link>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2020/09/p15656071_v_v12_ad.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>O longa acompanha a história de Jacob, um gerente de banco atormentado por um violento assalto que resultou na morte de um de seus colegas de trabalho. Decidido a levar o assaltante à justiça, ele se junta à seu vizinho, James, um ex-policial que se compromete a ajudá-lo na busca pelo criminoso. Entretanto, a cruzada da dupla se torna mais complicada quando o assaltante demonstra estar um passo à frente deles, sequestrando a esposa e a filha de Jacob.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] A CAVERNA [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=https://magnet</link>
+<thumbnail>https://s2.glbimg.com/1HaeawAYwJrSvcHZqHPVL3LGzwU=/362x536/https://s2.glbimg.com/sCm9ukM1PVdMn057n772AKP4a3Y=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/f/b/xiK4uCRDAJk9JJLkVliQ/2020-862-a-caverna-poster.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Time Trap começa com os alunos Taylor (Reiley McClendon, The Fosters) e Jackie (Brianne Howey, O Exorcista) contando com a ajuda, e caminhão, de Cara (Cassidy Gifford, The Gallows) para encontrar Hopper (Andrew Wilson, Rushmore), sua professor de arqueologia favorito que desapareceu procurando por um grupo de hippies que desapareceram anos antes, eles descobrem que o tempo subterrâneo é não é o mesmo que o tempo de superfície.
+É aparente no início que o tempo passa de forma diferente no subsolo do que na superfície, mesmo que os personagens demorem um pouco para descobrir. Foster e Dennis aumentam a tensão enquanto as crianças enfrentam uma mudança inesperada após a outra e o enredo se move de formas legitimamente surpreendentes. Com um ritmo alucinante, o Time Trap mistura-se numa pequena Terra dos Perdidos, uma dose saudável de ficção científica, sugestões de aventura claustrofóbica e momentos de WTF que o espectador só pode imaginar que diabo está a chegar Próximo.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] A PARTICULA DE DEUS [/COLOR][/B][COLOR yellow] FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A9253EFC8D3E6A1692FA7309C372D6BAB9567227&dn=Cloverfield%20-%20A%20Part%C3%ADcula%20de%20Deus%202018%20%28720p%29%20DUBLADO%20WWW.BLUDV.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2780%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%25</link>
+<thumbnail>https://cinema10.com.br/upload/filmes/filmes_11227_postercloverfield3.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Orbitando um planeta à beira da guerra, cientistas testam um dispositivo para resolver uma crise de energia e acabam cara a cara com uma realidade alternativa obscura.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] O ESPELHO [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=https://magnet</link>
+<thumbnail>https://www.comandotorrenthd.net/wp-content/uploads/2020/07/O-Espelho.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Pensando em aumentar a renda, o eletricista Ray (Nicolas Cage) e a esposa, Maggie (Robin Tunney), decidem comprar um hotel. Ray descobre que em um dos quartos tem um espelho que permite espiar o que está acontecendo lá dentro. Justamente a hóspede deste quarto é encontrada morta e agora Ray se vê como um dos suspeitos.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] O ESPELHO [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a34f564a18b2743df5aab18b375d544b552f8392&dn=ACESSE%20O%20ORIGINAL%20COMANDO.TO%20-%20O%20Espelho%202020%20[720p]%20[DUAL]&tr=udp://tracker.openbittorrent.com:80/announce&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://tracker.coppersurfer.tk:6969/announce&tr=udp://glotorrents.pw:6969/announce&tr=udp://tracker4.piratux.com:6969/announce&tr=udp://coppersurfer.tk:6969/announce&tr=udp://retracker.lanta-net.ru:2710/announce&tr=udp://tracker.tiny-vps.com:6969/announce&tr=udp://open.stealth.si:80/announce&tr=udp://exodus.desync.com:6969/announce&tr=http://tracker.coppersurfer.tk:6969/announce&tr=http://bt.careland.com.cn:6969/announce&tr=http://exodus.desync.com:6969/announce&tr=udp://tracker.cyberia.is:6969/announce&tr=udp://public.popcorn-tracker.org:6969/announce&tr=udp://tracker.torrent.eu.org:451/announce&tr=udp://tracker.leechers-paradise.org:6969/announce&tr=http://exodus.desync.com/announce&tr=udp://9.rarbg.com:2710/announce&tr=udp://9.rarbg.me:2780/announce&tr=udp://9.rarbg.to:2730/announce</link>
+<thumbnail>https://www.comandotorrenthd.net/wp-content/uploads/2020/07/O-Espelho.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Pensando em aumentar a renda, o eletricista Ray (Nicolas Cage) e a esposa, Maggie (Robin Tunney), decidem comprar um hotel. Ray descobre que em um dos quartos tem um espelho que permite espiar o que está acontecendo lá dentro. Justamente a hóspede deste quarto é encontrada morta e agora Ray se vê como um dos suspeitos.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] FASCINAÇÃO MORTAL - O RETORNO [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:96b774b0beec773b7d726cb6d9a61c1dfa97b488&dn=[ACESSE%20comandotorrents.org]%20Fascinacao%20Mortal%20A%20Vingan%C3%A7a%202019%20[720p]%20[WEB-DL]%20[DUBLADO]&tr=udp://tracker.openbittorrent.com:80/announce&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://tracker.coppersurfer.tk:6969/announce&tr=udp://glotorrents.pw:6969/announce&tr=udp://tracker4.piratux.com:6969/announce&tr=udp://coppersurfer.tk:6969/announce&tr=http://t2.pow7.com/announce&tr=udp://tracker.yify-torrents.com:80/announce&tr=http://www.h33t.com:3310/announce&tr=http://exodus.desync.com/announce&tr=http://tracker.coppersurfer.tk:6969/announce&tr=http://bt.careland.com.cn:6969/announce&tr=http://exodus.desync.com:6969/announce&tr=udp://tracker.publicbt.com:80/announce&tr=udp://tracker.istole.it:80/announce&tr=http://tracker.blazing.de/announce&tr=udp://tracker.openbittorrent.com:80/announce&tr=http://tracker.yify-torrents.com/announce&tr=udp://tracker.prq.to/announce&tr=udp://tracker.1337x.org:80/announce&tr=udp://9.rarbg.com:2740/announce&tr=udp://tracker.ex.ua:80/announce&tr=udp://ipv4.tracker.harry.lu:80/announce&tr=udp://12.rarbg.me:80/announce&tr=udp://tracker.publicbt.com:80/announce&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://11.rarbg.com/announce&tr=udp://tracker.ccc.de:80/announce&tr=udp://fr33dom.h33t.com:3310/announce&tr=udp://public.popcorn-tracker.org:6969/announce</link>
+<thumbnail>https://media.fstatic.com/HGfTEqI4l8wes0dBKgvj_NAMtVA=/290x478/smart/media/movies/covers/2018/10/p15523380_v_v8_aa.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Julgado inocente pela tentativa de assassinato de uma ex-paciente, Dr. Albert Beck (Eric Roberts) tenta recomeçar a vida como professor em uma escola de medicina. Lá, uma estudante fica apaixonada por ele e Albert decide embarcar nessa relação. Mas, as coisas se complicam quando uma pessoa do passado reaparece.</info>
+</item>
+
 
 
 
