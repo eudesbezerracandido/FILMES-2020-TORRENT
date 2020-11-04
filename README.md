@@ -362,6 +362,25 @@ O Dr. Dolittle vive com uma variedade de animais exóticos e conversa com eles d
 <info> Em tempos apocalípticos de fome, uma peça num hotel com jantar incluído atrai uma multidão. Mas uma família descobre que o preço a pagar é bem maior que o do ingresso.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] ARCHIVO 2020 HDTV CINEMA [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3b22f593988e94619a4bcab69dd4f980611d09ef</link>
+<thumbnail>https://dl.hame-chizi.ir/hamechizi/2020/08/Archive-2020.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>2038: George Almore está trabalhando em uma verdadeira IA equivalente a humanos. Seu último protótipo está quase pronto. Essa fase sensível também é a mais arriscada. Especialmente porque ele tem um objetivo que deve estar oculto a todo custo: reunir-se com sua esposa morta.
+Enredo: 2038: George Almore está trabalhando em um verdadeiro AI humano-equivalente. Seu mais recente protótipo está quase pronto. Esta fase é sensível também o maior risco. Especialmente porque ele tem uma meta que deve ser escondido em todos os custos: sendo reunido com sua esposa morta.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] 2067 HDTV CINEMA [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e00ff5788689a1f4fe3718b03917279446771467</link>
+<thumbnail>https://i2.wp.com/lugarnenhum.net/wp-content/uploads/2020/09/2067.jpg?w=674&ssl=1</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um grupo de humanos busca respostas no futuro após as florestas, vida selvagem e plantas do planeta serem devastados pela mudança climática.
+Enredo: jornada de um homem para o futuro para salvar um mundo agonizante.</info>
+</item>
+
+
 
 
 
