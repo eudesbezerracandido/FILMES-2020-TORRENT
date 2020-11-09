@@ -426,7 +426,7 @@ Enredo: Em um universo ficcional que inclui nações dez. Vendo o país vizinho 
 <item>
 <title>[COLOR silver][B] TENET - LEGENDADO+DUBLADO HDCAM 8.5 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e411ea506edd560f06a2f9dfa73915b267dabaff</link>
-<thumbnail></thumbnail>
+<thumbnail>https://cinepop.com.br/wp-content/uploads/2020/08/tenet_20.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Armado com apenas uma palavra – Tenet – e lutando pela sobrevivência do mundo inteiro, o Protagonista viaja através de um mundo crepuscular de espionagem internacional em uma missão que irá desenrolar em algo para além do tempo real.
 Enredo: Em um mundo crepuscular da espionagem internacional, um agente da CIA sem nome, conhecido como o protagonista, é recrutado por uma organização misteriosa chamada Tenet para participar de uma missão global que se desdobra além do tempo real. A missão: Prevenir Andrei Sator, um oligarca russo renegado com habilidades precognição, de começar a Terceira Guerra Mundial. O Protagonista em breve dominar a arte de “inversão do tempo”, como forma de combater a ameaça</info>
