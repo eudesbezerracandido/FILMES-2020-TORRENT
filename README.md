@@ -396,6 +396,51 @@ Enredo: jornada de um homem para o futuro para salvar um mundo agonizante.</info
 <info>Anne põe a família e a carreira em risco seduzindo o enteado adolescente. Anne é uma advogada do direito das crianças e dos adolescentes. Acostumada em lidar com jovens complicados, ela não tem muitas dificuldades para estreitar laços com seu enteado Gustav, filho do primeiro casamento de seu marido Peter que acaba de se mudar para sua casa. No entanto, a relação que deveria ser maternal se torna uma relação romântica, envolvendo Anne em uma situação complexa, arriscando a estabilidade tanto de sua vida pessoal quanto profissional. Premiado no Festival de Sundance 2019. Representante da Dinamarca no Oscar de Filme Estrangeiro 2020.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] CONVENÇÃO DAS BRUXAS HDTV CAM QUAL.9  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:65e1e92a45e228e8854177f5c7ff49c811d6d064</link>
+<thumbnail>https://img.elo7.com.br/product/zoom/338A659/convencao-das-bruxas-impresso-em-tela-de-pintura-30x40cm-presentes.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um menino acaba descobrindo uma conferência de bruxas enquanto fica com a avó em um hotel e é transformado em rato pela Grande Bruxa.
+Enredo: Reimaginar história amado de Roald Dahl para um público moderno, filme visualmente inovador de Robert Zemeckis narra o conto darkly bem-humorado e comovente de um menino órfão que, no final de 1967, vai viver com sua amorosa avó na rural cidade Alabama de Demopolis. Como o menino e seu encontro avó alguns enganosamente glamourosas, mas completamente diabólicos bruxas, ela sabiamente batedeiras-o para um resort à beira-mar. Infelizmente, eles chegam precisamente ao mesmo tempo em que alta bruxa grande do mundo reuniu seus companheiros de companheiros de todo o mundo-disfarçado-para realizar seus planos nefastos. Zemeckis é acompanhado por uma equipe de classe mundial de cineastas, incluindo Alfonso Cuarón, Guillermo del Toro e Kenya Barris. O elenco inclui performances powerhouse de Anne Hathaway, Octavia Spencer, Stanley Tucci, Kristin Chenoweth e Chris Rock, com recém-chegado Jahzir Kadeen de Bruno como o herói corajoso jovem.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] ARCHIVE HDTV CAM 9. [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3b22f593988e94619a4bcab69dd4f980611d09ef</link>
+<thumbnail>https://pipocamoderna.com.br/wp-content/uploads/2020/06/archive_xlg.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>2038: George Almore está trabalhando em uma verdadeira IA equivalente a humanos. Seu último protótipo está quase pronto. Essa fase sensível também é a mais arriscada. Especialmente porque ele tem um objetivo que deve estar oculto a todo custo: reunir-se com sua esposa morta.
+Enredo: 2038: George Almore está trabalhando em um verdadeiro AI humano-equivalente. Seu mais recente protótipo está quase pronto. Esta fase é sensível também o maior risco. Especialmente porque ele tem uma meta que deve ser escondido em todos os custos: sendo reunido com sua esposa morta.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] MUNDO DUPLO  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4d36e47fb0fcadc0bf963228d448e18c44ac4692</link>
+<thumbnail>https://limaomecanico.com.br/wp-content/uploads/2020/07/Mundo-Duplo.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Interessado em trazer honra ao seu clã, o jovem aldeão Dong Yilong embarca em uma perigosa jornada para competir em um torneio que seleciona guerreiros para a batalha.
+Enredo: Em um universo ficcional que inclui nações dez. Vendo o país vizinho se tornam mais e mais poderoso, um senhor da guerra organiza uma competição para revelar os melhores guerreiros. Ao ouvir a notícia, Dong Yilong, um jovem morador valente decide aceitar o desafio apesar das dúvidas de sua aldeia. Assim começa a viagem.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] TENET - LEGENDADO+DUBLADO HDCAM 8.5 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e411ea506edd560f06a2f9dfa73915b267dabaff</link>
+<thumbnail></thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Armado com apenas uma palavra – Tenet – e lutando pela sobrevivência do mundo inteiro, o Protagonista viaja através de um mundo crepuscular de espionagem internacional em uma missão que irá desenrolar em algo para além do tempo real.
+Enredo: Em um mundo crepuscular da espionagem internacional, um agente da CIA sem nome, conhecido como o protagonista, é recrutado por uma organização misteriosa chamada Tenet para participar de uma missão global que se desdobra além do tempo real. A missão: Prevenir Andrei Sator, um oligarca russo renegado com habilidades precognição, de começar a Terceira Guerra Mundial. O Protagonista em breve dominar a arte de “inversão do tempo”, como forma de combater a ameaça</info>
+</item>
+
+<item>
+<title>[COLOR silver][B]  MUSSUM - DOCUMENTARIO  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7c08fc583d46936b0cae8556dae99d2207505412&dn=COMANDO.TO%20-%20Mussum%20-%20Um%20Filme%20do%20Cacildis%202020%20%5b1080p%5d&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fretracker.lanta-net.ru%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.tiny-vps.com%3a6969%2fannounce&tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce&tr=udp%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.cyberia.is%3a6969%2fannounce&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.torrent.eu.org%3a451%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2710%2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2780%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2730%2fannounce</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNWVmMWRmYjAtYjU3Ny00NjNmLTk0ZDgtNDNjZjMyYjgxZTU0XkEyXkFqcGdeQXVyOTE5MDE5NQ@@._V1_UY1200_CR751,0,630,1200_AL_.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>O documentário conta a trajetória do músico e comediante Mussum de forma irreverente e com estética gráfica inovadora nos cenários e composição visual. Primeiro como vocalista do grupo Os Originais do Samba e, depois, no cinema e na TV, como integrante do humorístico Os Trapalhões, grupo que revolucionou a forma de fazer humor na teledramaturgia brasileira.</info>
+</item>
+
+
 
 
 
