@@ -486,7 +486,7 @@ Enredo: Em um mundo crepuscular da espionagem internacional, um agente da CIA se
 <thumbnail>https://torrentdublado.com/imagens/alma-de-guerreiro-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Seguidores de duas religiões lutam entre si em uma batalha de proporções gigantescas. Um estranho se encontra no meio do conflito e é pressionado a escolher um lado. No final, ele decide que nenhum dos lados merece seu favor e deve lutar por seus próprios desejos.</info>
-</item>
+</item> 
 
 
 
