@@ -520,6 +520,14 @@ Enredo: Em um mundo crepuscular da espionagem internacional, um agente da CIA se
 <info> Uma estudante brilhante na Nigéria assume o estabelecimento acadêmico ao relatar um professor popular que tentou estuprá-la. Baseado em fatos reais.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] ABRAÇO  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b6ad7668e1a6c6372b3d1ed9f1956f3a00811170&dn=</link>
+<thumbnail>https://www.cnte.org.br/images/stories/2020/imagem_cartaz_filme_abraco_vertical.jpeg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Em 2008, os professores sergipanos travam uma luta jurídica com o governo do estado para evitar a perda de direitos já conquistados. 30 mil professores de todas as partes do estado deixam suas escolas e partem em uma longa jornada para lutar na capital Aracaju. O desafio é convencer os desembargadores do Tribunal de Justiça a não votar pelo fim da carreira do magistério. O julgamento é adiado duas vezes e a batalha se prolonga por um mês. No meio desta luta entre governo e professores, a professora Ana Rosa vive o desafio de ser mãe, mulher e dirigente sindical. Ela precisa conciliar as múltiplas tarefas da vida profissional e doméstica, mas a incompreensão de seu marido e a visão machista de sua própria mãe tornam a sua jornada ainda mais desafiadora.</info>
+</item>
+
 
 
 
