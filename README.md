@@ -488,6 +488,22 @@ Enredo: Em um mundo crepuscular da espionagem internacional, um agente da CIA se
 <info>Seguidores de duas religiões lutam entre si em uma batalha de proporções gigantescas. Um estranho se encontra no meio do conflito e é pressionado a escolher um lado. No final, ele decide que nenhum dos lados merece seu favor e deve lutar por seus próprios desejos.</info>
 </item> 
 
+<item>
+<title>[COLOR silver][B] AMEAÇA PROFUNDA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A9D87AB7B4FB9EF9E579B1F108F0DBDDE6F6460D&dn=COMANDO.TO%20-%20Amea%c3%a7a%20Profunda%202020%205.1%20%5b1080p%5d%20%5bDUAL%5d</link>
+<thumbnail>https://br.web.img3.acsta.net/pictures/19/08/22/22/50/3689762.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um grupo de pesquisadores se encontra num laboratório subaquático a onze mil metros de profundidade, quando um terremoto causa a destruição do veículo e expõe a equipe ao risco de morte. Eles são obrigados a caminhar nas profundezas marítimas, com quantidade insuficiente de oxigênio, para tentarem sobreviver. No entanto, conforme se deslocam pelo fundo do mar, descobrem que não estão sozinhos.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] A ESPADA DE DEUS - A ULTIMA CRUZADA  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:27a37c8cb44987f4584b0c1cf60a4ac36e34bff6&dn=COMOEUBAIXO.COM..BLURAY.MKV.COMANDO.TO%20-%20Espada%20de%20Deus%20-%20A%20Ultima%20Cruzada%202020%20%5b1080p%5d%20DUAL&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fretracker.lanta-net.ru%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.tiny-vps.com%3a6969%2fannounce&tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce&tr=udp%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.cyberia.is%3a6969%2fannounce&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.torrent.eu.org%3a451%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2710%2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2780%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2730%2fannounce</link>
+<thumbnail>https://ottvsimg.ottvs.com.br/cov/mar.178320/0178320_335.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Idade Média. Na última ilha pagã, o cavaleiro Willibrord chega por um milagre, escapando da morte. Ele teria morrido há muito tempo se não fosse a ajuda de Noname. Apesar das diferenças de visão do mundo e abordagem à religião, os homens tornam-se companheiros de viagem. Eles continuam sua jornada conectados por um objetivo comum – querem encontrar e batizar o povo gentio escondido nas montanhas.</info>
+</item>
+
 
 
 
