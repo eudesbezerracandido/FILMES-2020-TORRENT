@@ -537,6 +537,38 @@ Enredo: Em um mundo crepuscular da espionagem internacional, um agente da CIA se
 <info>Baseada em uma investigação real dos dias atuais. A história é centrada no jovem investigador do Pentágono Scott Huffman que luta contra a máquina da política de Washington, EUA. Mesmo relutante, ele se une a um grupo de veteranos para tentar convencer o Congresso americano de dar uma Medalha de Honra para William Pitsenbarger, que se sacrificou para salvar 60 soldados durante a Guerra do Vietnã.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] ATRAZ DA LINHA - FUGA DE DANKIRK [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:907063476f53cab2a1b77bd80bf67e848af95ca0&dn=COMOEUBAIXO.COM.-VERSAO-FULL-HD-.MKV.Atras.da.Linha.Fuga.para.Dunkirk.2020.1080p.WEB-DL.DD5.1.H264.DUAL-TDF&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.trackerfix.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&tr=udp%3a%2f%2feddie4.nl%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fzer0day.ch%3a1337%2fannounce</link>
+<thumbnail>https://image.tmdb.org/t/p/w185/5OFNp1wuHnph8ytCE5HWyAFTLrz.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>França, II Guerra Mundial. Um grupo de soldados britânicos é capturado pelo alemães. Quando um comandante nazista começa a forçar lutas de boxe para entreter a companhia, os presos percebem que podem usá-las para tentar escapar.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] BLACKOUT - A BATALHA FINAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9918a5745251095ad204488e21600062a16de24e&dn=COMOEUBAIXO.COM..BLURAY.MKV.COMANDO.TO%20-%20Blackout%20-%20A%20Batalha%20Final%202020%20%5b720p%5d%20DUAL&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce</link>
+<thumbnail>https://legendei.to/wp-content/uploads/2020/05/Blackout-214x317.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Nenhum meteorito atingiu a Terra, nenhum terrorista colocou o mundo em perigo, nenhuma guerra atômica foi iniciada, mas algo deu errado. O contato entre a maioria das cidades da Terra foi cortado. Uma pequena área semelhante a um anel na Europa Oriental ainda tem eletricidade. O que forças militares encontram fora do Anel é chocante. Há cadáveres mortos em todos os lugares: nas lojas, nos carros, nas estradas, nos hospitais e nas estações ferroviárias. Quem ou o que está destruindo toda a vida na Terra? Por quanto tempo o último posto avançado da humanidade sobreviverá?</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] AO FIM DA TRILHA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dd835767fe0fda2e735e8725475ff2b5ab80f57a&dn=COMOEUBAIXO.COM.-VERSAO-FULL-HD-.MKV.Ao.Fim.da%20Trilha.2019.1080p.AMZN.WEB-DL.H.264.DUAL-TDF&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.trackerfix.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&tr=udp%3a%2f%2feddie4.nl%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fzer0day.ch%3a1337%2fannounce</link>
+<thumbnail>https://viatorrents.com/imagens/ao-fim-da-trilha-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Três irmãos vão para as montanhas para se despedir do pai falecido e espalhar suas cinzas. Agora, juntos pela primeira vez em muitos anos, eles devem encontrar uma maneira de se reconectar, ou então vão continuar se afastando, até que seus vínculos entre si desaparecem para sempre.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] O CADERNO DE TOMY - BASEADOS EM FATOS REAIS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:937c9f9f2bbca2777a03c79bf77d3769bcfc8379&dn=COMOEUBAIXO.COM.-VERSAO-5.1-.MKV.o.caderno.de.tomy.2020.1080p.NF.WEB-DL.DDP5.1.H264.DUAL-MG&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.trackerfix.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&tr=udp%3a%2f%2feddie4.nl%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fzer0day.ch%3a1337%2fannounce</link>
+<thumbnail>https://viatorrents.com/imagens/o-caderno-de-tomy-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Lutando contra um câncer terminal, uma mulher escreve um caderno único sobre a vida, a morte e o amor de seu filho para se lembrar dela. Baseado em uma história verdadeira.</info>
+</item>
+
 
 
 
