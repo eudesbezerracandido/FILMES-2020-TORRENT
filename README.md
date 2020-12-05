@@ -585,6 +585,24 @@ Enredo: Em um mundo crepuscular da espionagem internacional, um agente da CIA se
 <info>A vida patética de Miles (Daniel Radcliffe), um desenvolvedor de jogos, toma rumos dramáticos quando ele acidentalmente se torna o novo competidor de SKIZM, uma violenta competição underground exibida ao vivo na internet, tendo que destronar a maior matadora do jogo, Nix (Samara Weaving), que está disposta a tudo para manter sua posição.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] HARD KILL HDTV [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:33a4843d986ed1f801d5f6cf070deb9884c6b5b5</link>
+<thumbnail>https://poltronanerd.com.br/wp-content/uploads/2020/07/hard_kill_xlg.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> O trabalho do bilionário CEO de tecnologia Donovan Chalmers (Willis) é tão valioso que ele contrata mercenários para protegê-lo e um grupo terrorista sequestra sua filha apenas para obtê-lo.
+Enredo: O trabalho do bilionário tecnologia CEO Donovan Chalmers (Willis) é tão valioso que ele contrata mercenários para protegê-lo, e um grupo terrorista seqüestra sua filha apenas para obtê-lo.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] ROGUE CITY  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a3ffca78d1bf86c1036809990aa49e75bbce4484</link>
+<thumbnail>https://cinema10.com.br/upload/filmes/filmes_15031_4227202.jpg-r_1920_1080-f_jpg-q_x-xxyxx.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Marselha. Tudo começa com a carnificina causada pelos homens do clã Orsoni. Richard Vronski, um policial da brigada anti-gangue com métodos pouco ortodoxos, se vê encarregado da investigação, enfrentando seus rivais, comandados por Costa, major da polícia. Um novo diretor, o comissário Angel Leonetti chega para dominar os cães loucos de sua equipe. Mas todos perceberão rapidamente que não se recebe nada sem sacrifícios ou riscos.
+Enredo: Marselha. Tudo começa com carnificina digna do assassinato do bar du Telefone, causada pelos homens do clã Orsoni. Richard Vronski, um policial da brigada anti-gang com métodos não ortodoxos, encontra-se responsável pela investigação, enfrentando seus rivais do BRB, comandado pela Costa, uma polícia maior nas ações problemáticas. Um novo diretor, o Comissário Divisional, Angel Leonetti chega a arrumar Marselha e domina os cães loucos em sua equipe. Mas tudo vai perceber rapidamente que você não recebe nada sem sacrifícios ou arriscar. Especialmente quando a filha do comissário esfrega com o anti-gangue, que os homens das cidades do norte atacam os corsicanos, que uma verdadeira testemunha é assassinada enquanto na custódia policial e que a força policial envia seu agente mais amargo. Então, Vronski e seus homens, para salvar sua pele, perderá rapidamente o mais perigoso.</info>
+</item>
+
 
 
 
