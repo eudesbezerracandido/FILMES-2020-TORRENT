@@ -424,8 +424,8 @@ Enredo: Em um universo ficcional que inclui nações dez. Vendo o país vizinho 
 </item>
 
 <item>
-<title>[COLOR silver][B] TENET - LEGENDADO+DUBLADO HDCAM 8.5 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=f/link>
+<title>[COLOR silver][B] TENET  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ce735947eba09bfac9606e81b5c15fd5c872b72b</link>
 <thumbnail>https://cinepop.com.br/wp-content/uploads/2020/08/tenet_20.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Armado com apenas uma palavra – Tenet – e lutando pela sobrevivência do mundo inteiro, o Protagonista viaja através de um mundo crepuscular de espionagem internacional em uma missão que irá desenrolar em algo para além do tempo real.
