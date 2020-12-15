@@ -635,6 +635,14 @@ Enredo: Marselha. Tudo começa com carnificina digna do assassinato do bar du Te
 <info>Eve é uma assassina, que trabalha matando alvos de alto-nível para uma organização secreta. Mas quando uma missão dá terrivelmente errado, ela é forçada a lutar pela própria sobrevivência.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B]  NO PLACE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d02cb63435834becd0e5027005fc27de527a8fba&dn=No.Place.2020.1080p.WEBRip.Dublado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/pHMrbI0sfq0vBy7N5ZBiYfqO2Qs.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Mac viaja pelo condado em busca da próxima agitação. Depois que ele encerrou o negócio com seu fixador do meio-oeste, Les, ela o transformou em um grande recordista em Indianápolis com o dono de um bar local. Ele descobre que envolve sua antiga paixão, Evelyn, e logo descobre que seu passado o alcançou e ele pode não sair vivo!</info>
+</item>
+
 
 
 
