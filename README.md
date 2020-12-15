@@ -643,6 +643,14 @@ Enredo: Marselha. Tudo começa com carnificina digna do assassinato do bar du Te
 <info>Mac viaja pelo condado em busca da próxima agitação. Depois que ele encerrou o negócio com seu fixador do meio-oeste, Les, ela o transformou em um grande recordista em Indianápolis com o dono de um bar local. Ele descobre que envolve sua antiga paixão, Evelyn, e logo descobre que seu passado o alcançou e ele pode não sair vivo!</info>
 </item>
 
+<item>
+<title>[COLOR silver][B]  INVASION PLANET EARTH [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a8e528208525205c81470b54ab3ac62f19faf33a&dn=Invasion.Planet.Earth.2019.1080p.BDRip.Dublado.mkv&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/81go0cSeOyL._AC_SY550_.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Após a morte de sua filha, Thomas Dunn é um homem que perdeu a fé. Sua vida desmoronou e sua confiança foi destruída. No entanto, neste dia, ele acorda para descobrir que Mandy, sua amada esposa, finalmente está grávida de novo. Talvez esta seja a chance de se afastar da tragédia do passado e para ele encontrar sua fé novamente. Mas também neste dia uma grande nave-mãe alienígena aparece nos céus e as pessoas da terra são repentinamente atormentadas por visões sobre o fim da civilização. Tom e Mandy são separados enquanto a nave-mãe lança uma enorme frota alienígena que ataca as cidades da Terra. Tom deve olhar profundamente dentro de si mesmo para encontrar não apenas sua fé, mas a sabedoria e a força para salvar a raça humana dos horrores que os ameaçam. No entanto, primeiro ele deve encontrar Mandy, ao descobrir que seu novo bebê é a chave para o futuro da humanidade. As linhas de batalha estão traçadas e a postura final da Terra está prestes a começar.</info>
+</item>
+
 
 
 
