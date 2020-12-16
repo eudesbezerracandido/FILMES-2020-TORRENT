@@ -363,15 +363,6 @@ O Dr. Dolittle vive com uma variedade de animais exóticos e conversa com eles d
 </item>
 
 <item>
-<title>[COLOR silver][B] ARCHIVO 2020 HDTV CINEMA [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3b22f593988e94619a4bcab69dd4f980611d09ef</link>
-<thumbnail>https://dl.hame-chizi.ir/hamechizi/2020/08/Archive-2020.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>2038: George Almore está trabalhando em uma verdadeira IA equivalente a humanos. Seu último protótipo está quase pronto. Essa fase sensível também é a mais arriscada. Especialmente porque ele tem um objetivo que deve estar oculto a todo custo: reunir-se com sua esposa morta.
-Enredo: 2038: George Almore está trabalhando em um verdadeiro AI humano-equivalente. Seu mais recente protótipo está quase pronto. Esta fase é sensível também o maior risco. Especialmente porque ele tem uma meta que deve ser escondido em todos os custos: sendo reunido com sua esposa morta.</info>
-</item>
-
-<item>
 <title>[COLOR silver][B] 2067 HDTV CINEMA [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e00ff5788689a1f4fe3718b03917279446771467</link>
 <thumbnail>https://i2.wp.com/lugarnenhum.net/wp-content/uploads/2020/09/2067.jpg?w=674&ssl=1</thumbnail>
@@ -403,15 +394,6 @@ Enredo: jornada de um homem para o futuro para salvar um mundo agonizante.</info
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Um menino acaba descobrindo uma conferência de bruxas enquanto fica com a avó em um hotel e é transformado em rato pela Grande Bruxa.
 Enredo: Reimaginar história amado de Roald Dahl para um público moderno, filme visualmente inovador de Robert Zemeckis narra o conto darkly bem-humorado e comovente de um menino órfão que, no final de 1967, vai viver com sua amorosa avó na rural cidade Alabama de Demopolis. Como o menino e seu encontro avó alguns enganosamente glamourosas, mas completamente diabólicos bruxas, ela sabiamente batedeiras-o para um resort à beira-mar. Infelizmente, eles chegam precisamente ao mesmo tempo em que alta bruxa grande do mundo reuniu seus companheiros de companheiros de todo o mundo-disfarçado-para realizar seus planos nefastos. Zemeckis é acompanhado por uma equipe de classe mundial de cineastas, incluindo Alfonso Cuarón, Guillermo del Toro e Kenya Barris. O elenco inclui performances powerhouse de Anne Hathaway, Octavia Spencer, Stanley Tucci, Kristin Chenoweth e Chris Rock, com recém-chegado Jahzir Kadeen de Bruno como o herói corajoso jovem.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] ARCHIVE HDTV CAM 9. [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3b22f593988e94619a4bcab69dd4f980611d09ef</link>
-<thumbnail>https://pipocamoderna.com.br/wp-content/uploads/2020/06/archive_xlg.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>2038: George Almore está trabalhando em uma verdadeira IA equivalente a humanos. Seu último protótipo está quase pronto. Essa fase sensível também é a mais arriscada. Especialmente porque ele tem um objetivo que deve estar oculto a todo custo: reunir-se com sua esposa morta.
-Enredo: 2038: George Almore está trabalhando em um verdadeiro AI humano-equivalente. Seu mais recente protótipo está quase pronto. Esta fase é sensível também o maior risco. Especialmente porque ele tem uma meta que deve ser escondido em todos os custos: sendo reunido com sua esposa morta.</info>
 </item>
 
 <item>
@@ -650,6 +632,17 @@ Enredo: Marselha. Tudo começa com carnificina digna do assassinato do bar du Te
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Após a morte de sua filha, Thomas Dunn é um homem que perdeu a fé. Sua vida desmoronou e sua confiança foi destruída. No entanto, neste dia, ele acorda para descobrir que Mandy, sua amada esposa, finalmente está grávida de novo. Talvez esta seja a chance de se afastar da tragédia do passado e para ele encontrar sua fé novamente. Mas também neste dia uma grande nave-mãe alienígena aparece nos céus e as pessoas da terra são repentinamente atormentadas por visões sobre o fim da civilização. Tom e Mandy são separados enquanto a nave-mãe lança uma enorme frota alienígena que ataca as cidades da Terra. Tom deve olhar profundamente dentro de si mesmo para encontrar não apenas sua fé, mas a sabedoria e a força para salvar a raça humana dos horrores que os ameaçam. No entanto, primeiro ele deve encontrar Mandy, ao descobrir que seu novo bebê é a chave para o futuro da humanidade. As linhas de batalha estão traçadas e a postura final da Terra está prestes a começar.</info>
 </item>
+
+<item>
+<title>[COLOR silver][B] ARCHIVE (LEGE.) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9aa503adc2bf560b5c55ffbea68abe03c699aa60&dn=Archive+(2020)+720p+WEBRip+YTS+%5BYIFY%5D&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp://tracker.internetwarriors.net:1337&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969</link>
+<thumbnail>https://pipocamoderna.com.br/wp-content/uploads/2020/06/archive_xlg.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>2038: George Almore está trabalhando em uma verdadeira IA equivalente a humanos. Seu último protótipo está quase pronto. Essa fase sensível também é a mais arriscada. Especialmente porque ele tem um objetivo que deve estar oculto a todo custo: reunir-se com sua esposa morta.
+Enredo: 2038: George Almore está trabalhando em um verdadeiro AI humano-equivalente. Seu mais recente protótipo está quase pronto. Esta fase é sensível também o maior risco. Especialmente porque ele tem uma meta que deve ser escondido em todos os custos: sendo reunido com sua esposa morta.</info>
+</item>
+
+
 
 
 
