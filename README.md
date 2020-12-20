@@ -660,12 +660,23 @@ Enredo: 2038: George Almore está trabalhando em um verdadeiro AI humano-equival
 </item>
 
 <item>
-<title>[COLOR silver][B] AGORA ESTAMOS SOZINHOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<title>[COLOR silver][B] AGORA ESTAMOS SOZINHOS ( LEG.) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3cd0d7df50bc7c6be182d999b4c67488f2cfc315&dn=COMANDO.TO%20-%20Agora%20Estamos%20Sozinhos%202020%20[720p]%20[DUAL]&tr=udp://tracker.openbittorrent.com:80/announce&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://tracker.coppersurfer.tk:6969/announce&tr=udp://glotorrents.pw:6969/announce&tr=udp://tracker4.piratux.com:6969/announce&tr=udp://coppersurfer.tk:6969/announce&tr=http://t2.pow7.com/announce&tr=udp://tracker.yify-torrents.com:80/announce&tr=http://www.h33t.com:3310/announce&tr=http://exodus.desync.com/announce&tr=http://tracker.coppersurfer.tk:6969/announce&tr=http://bt.careland.com.cn:6969/announce&tr=http://exodus.desync.com:6969/announce&tr=udp://tracker.publicbt.com:80/announce&tr=udp://tracker.istole.it:80/announce&tr=http://tracker.blazing.de/announce&tr=udp://tracker.openbittorrent.com:80/announce&tr=http://tracker.yify-torrents.com/announce&tr=udp://tracker.prq.to/announce&tr=udp://tracker.1337x.org:80/announce&tr=udp://9.rarbg.com:2740/announce&tr=udp://tracker.ex.ua:80/announce&tr=udp://ipv4.tracker.harry.lu:80/announce&tr=udp://12.rarbg.me:80/announce&tr=udp://tracker.publicbt.com:80/announce&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://11.rarbg.com/announce&tr=udp://tracker.ccc.de:80/announce&tr=udp://fr33dom.h33t.com:3310/announce&tr=udp://public.popcorn-tracker.org:6969/announce</link>
 <thumbnail>https://media.fstatic.com/TvrMYX_ZVAjXhdZa1JrYS4nMBqo=/290x478/smart/media/movies/covers/2018/12/42295346_2228898284020742_111592591903948800_o.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Del (Peter Dinklage) está vivendo no seu maior sonho quando todo o resto da humanidade simplesmente desaparece após um misterioso acidente e ele é o único que sobra na face da Terra. Até que ele encontra uma segunda sobrevivente, Grace (Elle Fanning), que vai ameaçar toda a sua recém-encontrada ordem.</info>
 </item>
+
+<item>
+<title>[COLOR silver][B] FASCINAÇÃO MORTAL - O RETORNO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4b0e7ef2d5ff924d63ed6d8252b67f29d7cfe4c1&dn=[ACESSE%20comandotorrents.org]%20Fascinacao%20Mortal%20A%20Vingan%C3%A7a%202019%20[720p]%20[WEB-DL]%20[DUAL]&tr=udp://tracker.openbittorrent.com:80/announce&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://tracker.coppersurfer.tk:6969/announce&tr=udp://glotorrents.pw:6969/announce&tr=udp://tracker4.piratux.com:6969/announce&tr=udp://coppersurfer.tk:6969/announce&tr=http://t2.pow7.com/announce&tr=udp://tracker.yify-torrents.com:80/announce&tr=http://www.h33t.com:3310/announce&tr=http://exodus.desync.com/announce&tr=http://tracker.coppersurfer.tk:6969/announce&tr=http://bt.careland.com.cn:6969/announce&tr=http://exodus.desync.com:6969/announce&tr=udp://tracker.publicbt.com:80/announce&tr=udp://tracker.istole.it:80/announce&tr=http://tracker.blazing.de/announce&tr=udp://tracker.openbittorrent.com:80/announce&tr=http://tracker.yify-torrents.com/announce&tr=udp://tracker.prq.to/announce&tr=udp://tracker.1337x.org:80/announce&tr=udp://9.rarbg.com:2740/announce&tr=udp://tracker.ex.ua:80/announce&tr=udp://ipv4.tracker.harry.lu:80/announce&tr=udp://12.rarbg.me:80/announce&tr=udp://tracker.publicbt.com:80/announce&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://11.rarbg.com/announce&tr=udp://tracker.ccc.de:80/announce&tr=udp://fr33dom.h33t.com:3310/announce&tr=udp://public.popcorn-tracker.org:6969/announce</link>
+<thumbnail>https://media.fstatic.com/HGfTEqI4l8wes0dBKgvj_NAMtVA=/290x478/smart/media/movies/covers/2018/10/p15523380_v_v8_aa.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Julgado inocente pela tentativa de assassinato de uma ex-paciente, Dr. Albert Beck (Eric Roberts) tenta recomeçar a vida como professor em uma escola de medicina. Lá, uma estudante fica apaixonada por ele e Albert decide embarcar nessa relação. Mas, as coisas se complicam quando uma pessoa do passado reaparece.</info>
+</item>
+
+
+
 
 
 
