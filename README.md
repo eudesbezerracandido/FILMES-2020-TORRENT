@@ -731,6 +731,14 @@ Enredo: 2038: George Almore está trabalhando em um verdadeiro AI humano-equival
 <info> No filme Mulher-Maravilha 1984 Torrent – WEB-DL 720p/1080p/4K Legendado, Mulher-Maravilha 1984 acompanha Diana Prince/Mulher-Maravilha (Gal Gadot) em 1984, durante a Guerra Fria, entrando em conflito com dois grande inimigos – o empresário de mídia Maxwell Lord (Pedro Pascal) e a amiga que virou inimiga Barbara Minerva/Cheetah (Kristen Wiig) – enquanto se reúne com seu interesse amoroso Steve Trevor (Chris Pine).</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] JOVENS  BRUXAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FCXXZKOAMJLXIBFMNL63QLOAPWTBFSIU&dn=Jovens%20Bruxas%20-%20Nova%20Irmandade%20BluRay%201080p%20DUAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A1337%2Fannounce</link>
+<thumbnail>https://br.web.img3.acsta.net/pictures/20/09/30/22/34/3091394.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>No filme Jovens Bruxas: Nova Irmandade Torrent – BluRay 1080p Dual Áudio, Na continuação da Blumhouse do sucesso cult Jovens Bruxas, um quarteto eclético de adolescentes aspirantes a bruxas recebe mais do que esperava ao se apoiar em seus novos poderes.</info>
+</item>
+
 
 
 
