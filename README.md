@@ -728,7 +728,7 @@ Enredo: 2038: George Almore está trabalhando em um verdadeiro AI humano-equival
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ad05c3f5014af41f8dfb97ef47f2a00e31d70753&dn=Wonder.Woman.1984.2020.1080p.WEBRip.Dublado.mkv&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce</link>
 <thumbnail>https://i.pinimg.com/originals/60/02/cb/6002cb5bc7133de63d554d0567458ae9.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info> No filme Mulher-Maravilha 1984 Torrent – WEB-DL 720p/1080p/4K Legendado, Mulher-Maravilha 1984 acompanha Diana Prince/Mulher-Maravilha (Gal Gadot) em 1984, durante a Guerra Fria, entrando em conflito com dois grande inimigos – o empresário de mídia Maxwell Lord (Pedro Pascal) e a amiga que virou inimiga Barbara Minerva/Cheetah (Kristen Wiig) – enquanto se reúne com seu interesse amoroso Steve Trevor (Chris Pine).</info>
+<info> Mulher-Maravilha 1984 acompanha Diana Prince/Mulher-Maravilha (Gal Gadot) em 1984, durante a Guerra Fria, entrando em conflito com dois grande inimigos – o empresário de mídia Maxwell Lord (Pedro Pascal) e a amiga que virou inimiga Barbara Minerva/Cheetah (Kristen Wiig) – enquanto se reúne com seu interesse amoroso Steve Trevor </info> 
 </item>
 
 <item>
