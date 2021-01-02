@@ -771,6 +771,14 @@ Enredo: 2038: George Almore está trabalhando em um verdadeiro AI humano-equival
 <info>Sam (Andrew Garfield) é um jovem meio perdido na vida, que um dia encontra a garota perfeita: sua vizinha, com quem passa uma noite. No dia seguinte, ela desaparece. Não existem mais sinais da garota, e todas as suas coisas desapareceram do apartamento onde habitava. Sam começa a investigar o caso, buscando todos os indícios possíveis: os pequenos rabiscos na parede, as mensagens escondidas em músicas. Seria tudo isso parte de uma grande conspiração, ou Sam está ficando louco?</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] SONHOS DE UMA VIDA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bfb200b28ba9980e0549e11c7d66c240e1e4b451&dn=WF%20-%20Sonhos.de.uma.Vida.2020.1080p&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fretracker.lanta-net.ru%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.tiny-vps.com%3a6969%2fannounce&tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce&tr=udp%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.cyberia.is%3a6969%2fannounce&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.torrent.eu.org%3a451%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2710%2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2780%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2730%2fannounce</link>
+<thumbnail>https://www.cafecomfilme.com.br/media/k2/items/cache/ca1971a2be029c53c6d33c2b63246656_XL.jpg?t=20200327_153700</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> O longa segue 24 horas turbulentas na vida de um pai e sua filha, Leo e Molly, enquanto ela lida com os desafios do estado mental aparentemente caótico de seu pai, caminhando pela cidade de Nova York.</info>
+</item>
+
 
 
 
