@@ -763,6 +763,14 @@ Enredo: 2038: George Almore está trabalhando em um verdadeiro AI humano-equival
 <info>Stanley, um idoso trabalhador de fast food, se prepara para trabalhar em seu último turno de cemitério após 38 anos. Quando ele é convidado a treinar seu substituto, Jevon, o fim de semana de Stanley dá uma guinada inesperada.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] O MISTÉRIO DE SILVER LAKE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:df8d93a68dad9ccc947cbee3c26a5b12bf6b05b3&dn=WOLVERDONFILMES%20-%20O%20Mist%c3%a9rio%20de%20Silver%20Lake%202020%20%5b1080p%5d%20DUAL&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce</link>
+<thumbnail>https://br.web.img3.acsta.net/pictures/18/04/10/17/25/5495302.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Sam (Andrew Garfield) é um jovem meio perdido na vida, que um dia encontra a garota perfeita: sua vizinha, com quem passa uma noite. No dia seguinte, ela desaparece. Não existem mais sinais da garota, e todas as suas coisas desapareceram do apartamento onde habitava. Sam começa a investigar o caso, buscando todos os indícios possíveis: os pequenos rabiscos na parede, as mensagens escondidas em músicas. Seria tudo isso parte de uma grande conspiração, ou Sam está ficando louco?</info>
+</item>
+
 
 
 
