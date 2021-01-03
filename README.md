@@ -841,7 +841,7 @@ Enredo: 2038: George Almore está trabalhando em um verdadeiro AI humano-equival
 <thumbnail>https://www.themoviedb.org/movie/569711-human-capital?language=pt-BR</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>O filme segue a vida de duas famílias - uma de classe média e a outra privilegiada - suas vidas se entrecruzam na divisão social quando dois de seus filhos de repente iniciam um relacionamento, que leva a um trágico acidente.</info>
-</item>
+</item> 
 
 
 
