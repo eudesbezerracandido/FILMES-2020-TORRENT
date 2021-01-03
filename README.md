@@ -827,6 +827,22 @@ Enredo: 2038: George Almore está trabalhando em um verdadeiro AI humano-equival
 <info>Owen (Michael Angarano) e Hallie (Emma Roberts) passaram a primeira metade de seus 20 anos juntos, mas agora encontram um empecilho. Quando decidem dar um tempo, seus amigos Matt (Patrick Gibson) e Willa (Dree Hemingway) embarcam num inesperado romance. O destino dos dois casais se entrelaçam ao longo de um verão.</info>
 </item>
 
+<tem>
+<title>[COLOR silver][B] UM DIA DE CHUVA EM NOVA YORK [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:04506adf10b9168b21f7854b7a14d56736a8f157&dn=COMOEUBAIXO.COM.-VERSAO-.BLURAY.MKV.LAPUMiA.Org%20-%20Um.Dia.de.Chuva.em.Nova.York.2019.1080p.BRRip.x264.DUAL-TDF&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.trackerfix.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&tr=udp%3a%2f%2feddie4.nl%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fzer0day.ch%3a1337%2fannounce</link>
+<thumbnail>https://br.web.img3.acsta.net/pictures/19/08/27/16/09/5381653.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Apaixonado por Nova York, Gatsby (Timothée Chalamet) decide passar um fim de semana na cidade ao lado de Ashleigh (Elle Fanning), sua namorada. No entanto, aquilo que era pra ser uma aventura romântica acaba tomando um rumo inesperado. Aspirante a jornalista, Ashleigh conhece o diretor de cinema Roland Pollard (Liev Schreiber), que a convida para a exibição de seu mais recente trabalho. Gatsby, por sua vez, encontra Chan (Selena Gomez), a irmã mais nova de sua ex-namorada, com quem passa o restante da viagem. Um dia de chuva em Nova York será o suficiente para fazer com que Ashleigh redescubra suas verdadeiras paixões e Gatsby aprenda que só se vive uma vez - mas que é o suficiente se for ao lado da pessoa certa.</info>
+</item>
+
+<tem>
+<title>[COLOR silver][B] CAPITAL HUMANO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f5d3e18dbdfac9db27e369bbcddff2ce1240f3b1&dn=COMOEUBAIXO.COM.-VERSAO-.MKV.LAPUMiA.Org%20-%20Capital.Humano.2020.1080p.AMZN.WEB-DL.DDP5.1.H.264.DUAL-TDF&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.trackerfix.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&tr=udp%3a%2f%2feddie4.nl%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fzer0day.ch%3a1337%2fannounce</link>
+<thumbnail>https://www.themoviedb.org/movie/569711-human-capital?language=pt-BR</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>O filme segue a vida de duas famílias - uma de classe média e a outra privilegiada - suas vidas se entrecruzam na divisão social quando dois de seus filhos de repente iniciam um relacionamento, que leva a um trágico acidente.</info>
+</item>
+
 
 
 
