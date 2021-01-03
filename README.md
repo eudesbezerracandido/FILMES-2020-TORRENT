@@ -795,6 +795,22 @@ Enredo: 2038: George Almore está trabalhando em um verdadeiro AI humano-equival
 <info> Roy derrapa feio na véspera do casamento e, para não perder a noiva, acaba aceitando correr contra uma nova adversária na pista de Nurburgring, na Alemanha.</info>
 </item>
 
+<tem>
+<title>[COLOR silver][B] MEU BEBÊ [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:10537be37ccd09e7ecc06e4669225a37f28a92a1&dn=COMOEUBAIXO.COM..BLURAY.MKV.-DUBLADO-DUAL-AUDIO-..COMANDO.TO%20-%20Meu.Beb%c3%aa.2021.720p&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fretracker.lanta-net.ru%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.tiny-vps.com%3a6969%2fannounce&tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce&tr=udp%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.cyberia.is%3a6969%2fannounce&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.torrent.eu.org%3a451%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2710%2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2780%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2730%2fannounce</link>
+<thumbnail>https://br.web.img2.acsta.net/pictures/19/06/06/15/48/4674069.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Héloise é mãe de três filhos. A mais nova, Jade, tem 18 anos. Após sua formatura ela vai para o Canadá a fim de continuar seus estudos. Quanto mais se aproxima o momento de partida mais Heloise volta às lembranças de seu relacionamento com sua filha mais nova. E para manter tantas lembranças quanto possível ela filme tudo com seu telefone.</info>
+</item>
+
+<tem>
+<title>[COLOR silver][B] NINGUEM BRINCA COM JESUS QUINTANA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0005d5cc262b12c105bb73ee060fc882caef616c&dn=COMOEUBAIXO.COM.-VERSAO-.BLURAY.MKV.LAPUMiA.Org%20-%20Ninguem.Brinca.com.Jesus.Quintana.2019.1080p.BRRip.x264.DUAL-TDF&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.trackerfix.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&tr=udp%3a%2f%2feddie4.nl%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fzer0day.ch%3a1337%2fannounce</link>
+<thumbnail>https://www.filmesonlinegratis.com/wp-content/uploads/2020/12/429416.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um trio de amigos desajustados vive de forma espontânea e irreverente. Quando eles inesperadamente se tornam inimigos de um cabeleireiro armado, a jornada deste trio se transforma em uma fuga constante da lei, da sociedade e do cabeleireiro, enquanto os laços de sua família externa se fortalecem.</info>
+</item>
+
 
 
 
