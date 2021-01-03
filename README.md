@@ -859,6 +859,14 @@ Enredo: 2038: George Almore está trabalhando em um verdadeiro AI humano-equival
 <info>Um casal que enfrenta problemas de fertilidade tem seu casamento testado durante as férias em um resort na Sardenha – e a família ao lado só aumenta a tensão.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] MEIA IRMÃ [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail>https://www.themoviedb.org/movie/396386-barracuda?language=pt-BR</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Sinaloa (Sophie Reid) é uma jovem britânica que ruma em direção ao Texas para encontrar Merle (Allison Tolman), sua meia-irmã por parte do seu falecido pai, que era músico do ritmo country. Não demora para que Sinaloa se insira na vida de Merle. Sua música acorda algo na vida da sua nova meia-irmã, apagando as dúvidas do parentesco entre as duas. Enquanto o legado musical da família trouxe esta estranha para a cidade, motivos mais obscuros estão entrelaçados na música que Sinaloa canta, mostrando sinais de uma violenta raiva construída há anos.</info>
+</item>
+
 
 
 
