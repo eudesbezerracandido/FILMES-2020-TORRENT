@@ -838,7 +838,7 @@ Enredo: 2038: George Almore está trabalhando em um verdadeiro AI humano-equival
 <tem>
 <title>[COLOR silver][B] CAPITAL HUMANO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f5d3e18dbdfac9db27e369bbcddff2ce1240f3b1&dn=COMOEUBAIXO.COM.-VERSAO-.MKV.LAPUMiA.Org%20-%20Capital.Humano.2020.1080p.AMZN.WEB-DL.DDP5.1.H.264.DUAL-TDF&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.trackerfix.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&tr=udp%3a%2f%2feddie4.nl%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fzer0day.ch%3a1337%2fannounce</link>
-<thumbnail>https://www.themoviedb.org/movie/569711-human-capital?language=pt-BR</thumbnail>
+<thumbnail>https://media.fstatic.com/YONzV_14YLkzPNTvZVQe4x1jNxY=/290x478/smart/media/movies/covers/2020/02/human_capital.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>O filme segue a vida de duas famílias - uma de classe média e a outra privilegiada - suas vidas se entrecruzam na divisão social quando dois de seus filhos de repente iniciam um relacionamento, que leva a um trágico acidente.</info>
 </item> 
