@@ -933,3 +933,5 @@ Enredo: 2038: George Almore está trabalhando em um verdadeiro AI humano-equival
 
 
 
+
+
