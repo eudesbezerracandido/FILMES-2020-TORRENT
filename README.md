@@ -867,6 +867,14 @@ Enredo: 2038: George Almore está trabalhando em um verdadeiro AI humano-equival
 <info> Sinaloa (Sophie Reid) é uma jovem britânica que ruma em direção ao Texas para encontrar Merle (Allison Tolman), sua meia-irmã por parte do seu falecido pai, que era músico do ritmo country. Não demora para que Sinaloa se insira na vida de Merle. Sua música acorda algo na vida da sua nova meia-irmã, apagando as dúvidas do parentesco entre as duas. Enquanto o legado musical da família trouxe esta estranha para a cidade, motivos mais obscuros estão entrelaçados na música que Sinaloa canta, mostrando sinais de uma violenta raiva construída há anos.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] MOSTROS DO HOMEM LEG. [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cc59004b118e89a39243a1f2878afce29a453424&dn=Monsters.of.Man.2020.1080p.WEBRip.Legendado.mkv&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce</link>
+<thumbnail>https://image.tmdb.org/t/p/w300/uoYHGazS5wLQFJe7tqZ39M8dA7Q.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Uma empresa de robótica que tenta ganhar um lucrativo contrato militar se alia a um agente corrupto da CIA para conduzir um teste ilegal de campo ao vivo. Eles lançam quatro protótipos de robôs armados em um campo suspeito de fabricação de drogas no Triângulo Dourado, presumindo que estariam matando traficantes de drogas que ninguém perderia. Seis médicos em uma missão humanitária testemunham o massacre brutal e se tornam os principais alvos.</info>
+</item>
+
 
 
 
