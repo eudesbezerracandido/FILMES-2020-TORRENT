@@ -915,6 +915,14 @@ Enredo: 2038: George Almore está trabalhando em um verdadeiro AI humano-equival
 <info>A península coreana ficou devastada após o surto de zumbis que atingiu os passageiros de um trem-bala com destino a Buscan há quatro anos. Com isso, um ex-soldado que conseguiu fugir do país, Jung-seok, tem a missão de retornar e acaba encontrando alguns sobreviventes.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] O CASO COLLINI [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:49c4b3a864d944faee7df539712740730a36d6a7&dn=COMANDO.TO%20-%20The.Collini.Case.2019.1080p-FULLHD.DUAL&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fretracker.lanta-net.ru%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.tiny-vps.com%3a6969%2fannounce&tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce&tr=udp%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.cyberia.is%3a6969%2fannounce&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.torrent.eu.org%3a451%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2710%2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2780%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2730%2fannounce</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/xgAwiFtSQu2uGlQuCtVnQ5yWKE4.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um jovem advogado se depara com uma vasta conspiração, enquanto investiga um caso de assassinato brutal.</info>
+</item>
+
 
 
 
