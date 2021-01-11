@@ -955,6 +955,22 @@ Enredo: 2038: George Almore está trabalhando em um verdadeiro AI humano-equival
 <info>Os minimalistas reformularam essa frase para criar um senso de urgência para a cultura de consumo de hoje: agora é a hora de menos.</info>
 </item> 
 
+<item>
+<title>[COLOR silver][B] A ROSA VENENOSA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3d31e1b6a5a65dc1785b5546d791885b48b52796&dn=COMOEUBAIXO.COM..BLURAY.MKV.COMANDO.TO%20-%20A%20%20Rosa%20Venenosa%202020%20%5b1080p%5d%20DUAL&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fretracker.lanta-net.ru%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.tiny-vps.com%3a6969%2fannounce&tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce&tr=udp%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.cyberia.is%3a6969%2fannounce&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.torrent.eu.org%3a451%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2710%2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2780%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2730%2fannounce</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/g0yhg61JGBjoWlqj9Lus3XiQA3i.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Inspirado no clássico filme noir The Poison Rose, estrelado por Carson Phillips, uma ex-astro de futebol virou detetive particular, que tem um fraquinho por uma senhora em perigo. Como os contos clássicos fiados pelos mestres, ele assume um caso de pessoa desaparecida que lentamente se revela uma teia complexa de crimes, suspeitos e cadáveres. Quando ele descobre que sua filha há muito tempo perdida, é o suspeito número um, ele corre contra o relógio para salvá-la, resolver os assassinatos, e descobrir os segredos sujos da cidade.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] A TABACARIA  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7766b605e693c12f39f588591415b70ec8c71f68&dn=COMOEUBAIXO.COM.-VERSAO-FULL-HD-.MKV.LAPUMiA.Org%20-%20A.Tabacaria.2018.1080p.BluRay.x264.DUAL-TDF&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.trackerfix.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&tr=udp%3a%2f%2feddie4.nl%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fzer0day.ch%3a1337%2fannounce</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/w4h717rbBuy78KgxtMKCZThWjF2.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Baseado no best-seller internacional "The Tobacconist", escrito por Robert Seethaler. Uma história terna, de partir o coração, sobre um jovem e sua amizade com Sigmund Freud durante a ocupação nazista de Viena.</info>
+</item>
+
 
 
 
