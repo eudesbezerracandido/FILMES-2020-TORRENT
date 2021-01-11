@@ -1011,6 +1011,14 @@ Enredo: 2038: George Almore está trabalhando em um verdadeiro AI humano-equival
 <info>Os Gardners são uma família que se muda para uma fazenda remota na zona rural da Nova Inglaterra para escapar da agitação do século XXI. Eles estão ocupados se adaptando à sua nova vida quando um meteorito cai no seu quintal da frente. O misterioso aerólito parece fundir-se com a terra, infectando tanto a terra quanto as propriedades do espaço-tempo com uma estranha cor sobrenatural. Para seu horror, a família Gardner descobre que essa força alienígena está gradualmente transformando todas as formas de vida que ela toca… incluindo-as.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] A ASSISTENTE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:433186074815753b22161d554b2151d30bf48068&dn=COMOEUBAIXO.COM.-VERSAO-FULL-HD-.MKV.LAPUMiA.Org%20-%20A.Assistente.2020.1080p.BluRay.x264-iFT.DUAL-RK&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.trackerfix.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&tr=udp%3a%2f%2feddie4.nl%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fzer0day.ch%3a1337%2fannounce</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/36R8qqx51WE7IkHcn4BohLzLqGY.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Jane é uma aspirante a produtora de cinema que recentemente conseguiu seu emprego dos sonhos como assistente júnior de um poderoso magnata do entretenimento. O dia dela é muito parecido com o de qualquer outra assistente. Mas, à medida que Jane segue sua rotina diária, ela começa a perceber todos os abusos que envolvem seu ambiente de trabalho e sua posição profissional.</info>
+</item>
+
 
 
 
