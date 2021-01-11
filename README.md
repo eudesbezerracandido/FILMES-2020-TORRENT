@@ -971,6 +971,14 @@ Enredo: 2038: George Almore está trabalhando em um verdadeiro AI humano-equival
 <info>Baseado no best-seller internacional "The Tobacconist", escrito por Robert Seethaler. Uma história terna, de partir o coração, sobre um jovem e sua amizade com Sigmund Freud durante a ocupação nazista de Viena.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] PIECES OF WOMAN [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2a4d45ca66893f02735f0a48100b80aaf831f57d&dn=COMOEUBAIXO.COM..WEB-DL.MKV.COMANDO.TO%20-%20Pieces.of.a.Woman.2020.1080p.DUAL&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fretracker.lanta-net.ru%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.tiny-vps.com%3a6969%2fannounce&tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce&tr=udp%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.cyberia.is%3a6969%2fannounce&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.torrent.eu.org%3a451%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2710%2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2780%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2730%2fannounce</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/uXBd4EH27EYeSb7uVSPyiE9lYVd.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Martha (Vanessa Kirby) e Sean Carson (Shia Labeouf) são um casal de Boston à beira da paternidade, cujas vidas mudam irrevogavelmente durante um parto domiciliar nas mãos de uma parteira perturbada, que enfrenta acusações de negligência criminosa. Assim começa um longo ano para Martha, que deve navegar em sua dor enquanto trabalha em relacionamentos turbulentos com seu marido e sua mãe dominadora, junto com a parteira publicamente difamada que ela deve enfrentar no tribunal.</info>
+</item>
+
 
 
 
