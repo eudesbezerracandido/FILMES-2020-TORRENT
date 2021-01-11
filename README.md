@@ -953,7 +953,7 @@ Enredo: 2038: George Almore está trabalhando em um verdadeiro AI humano-equival
 <thumbnail>https://www.themoviedb.org/t/p/original/l9D2PbIfXwnsuCR1CRNaPNIbHTj.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Os minimalistas reformularam essa frase para criar um senso de urgência para a cultura de consumo de hoje: agora é a hora de menos.</info>
-</item>
+</item> 
 
 
 
