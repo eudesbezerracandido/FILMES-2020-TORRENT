@@ -940,7 +940,7 @@ Enredo: 2038: George Almore está trabalhando em um verdadeiro AI humano-equival
 </item>
 
 <item>
-<title>[COLOR silver][B] COVID -  21 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<title>[COLOR silver][B] COVID -  21 ( LEG.) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4b7bc870144b9e5b2846c28588cb6989b9224099&dn=COMOEUBAIXO.COM..COVID-21.Lethal.Virus.2021.1080p.WEBRip.Legendado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/5z8wVwHtFXbRWP2dwVPTj9906HS.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
