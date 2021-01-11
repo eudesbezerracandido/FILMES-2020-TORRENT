@@ -979,6 +979,30 @@ Enredo: 2038: George Almore está trabalhando em um verdadeiro AI humano-equival
 <info>Martha (Vanessa Kirby) e Sean Carson (Shia Labeouf) são um casal de Boston à beira da paternidade, cujas vidas mudam irrevogavelmente durante um parto domiciliar nas mãos de uma parteira perturbada, que enfrenta acusações de negligência criminosa. Assim começa um longo ano para Martha, que deve navegar em sua dor enquanto trabalha em relacionamentos turbulentos com seu marido e sua mãe dominadora, junto com a parteira publicamente difamada que ela deve enfrentar no tribunal.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] TONY PARKER - ENTRE OS MAIORES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b802557baea5d8cebc802775fc2fe0353e6c412d&dn=COMOEUBAIXO.COM..WEB-DL.MP4.COMANDO.TO%20-%20Tony%20Parker%20%e2%80%93%20Entre%20os%20Maiores%202021%201080p%20DUBLADO&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fretracker.lanta-net.ru%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.tiny-vps.com%3a6969%2fannounce&tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce&tr=udp%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.cyberia.is%3a6969%2fannounce&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.torrent.eu.org%3a451%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2710%2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2780%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2730%2fannounce</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/8zrgid8f6c2ODn2T94jKfopOF4C.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Conheça Tony Parker de perto e entenda como sua determinação pode tê-lo transformado no maior jogador de basquete da França.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] AS FACES DO DEMÔNIO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cfc0e52cec9b1b23eafb1921a182b8a35dc68088&dn=COMOEUBAIXO.COM.-VERSAO-.BLURAY.MKV.LAPUMiA.Org%20-%20As.Faces.do.Demonio.2020.1080p.BRRip.x264-DUAL-RK&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.trackerfix.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&tr=udp%3a%2f%2feddie4.nl%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fzer0day.ch%3a1337%2fannounce</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/2cTxraUCvMYUt5bfzfrUtCx1xHZ.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um espírito maligno que muda de rostos se infiltra em uma família colocando um irmão em perigo enquanto o outro tenta salvá-lo.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B]  PALAVRAS DE FAMILIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:668cb52f532865bafd36a00135ba5cd0fad1c005&dn=COMOEUBAIXO.COM.-VERSAO-.MKV.LAPUMiA.Org%20-%20Palavras.de.Familia.2019.1080p.WEB-DL.H264.DUAL-TDF&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.trackerfix.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&tr=udp%3a%2f%2feddie4.nl%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fzer0day.ch%3a1337%2fannounce</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/4HpeBLMs3wuu2BuxOp6AM1NP3AV.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Alan (Bill Nighy) é um alfaiate que fecha a loja para se mudar com o seu filho mal-humorado Peter e o neto Jack. Há uma distância entre Alan e Peter enquanto ele culpa seu pai pelo desaparecimento de seu irmão Michael. Enquanto isso, Alan e Jack começam a se unir ao seu jogo favorito. O conflito leva a um ponto de inflexão quando Alan está convencido de que o adversário online 'Scrabble' pode realmente ser seu filho desaparecido e decide tentar encontrar o jogador pessoalmente.</info>
+</item>
+
 
 
 
