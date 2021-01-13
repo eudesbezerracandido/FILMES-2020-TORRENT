@@ -1019,6 +1019,15 @@ Enredo: 2038: George Almore está trabalhando em um verdadeiro AI humano-equival
 <info>Jane é uma aspirante a produtora de cinema que recentemente conseguiu seu emprego dos sonhos como assistente júnior de um poderoso magnata do entretenimento. O dia dela é muito parecido com o de qualquer outra assistente. Mas, à medida que Jane segue sua rotina diária, ela começa a perceber todos os abusos que envolvem seu ambiente de trabalho e sua posição profissional.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] O CANDIDATO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:afaf437b5b1dbdbad49681e94e52b8d64c40a988</link>
+<thumbnail>https://ondeeubaixo.org/imagens/o-candidato-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Manuel Gómez Vidal é um político amado em sua região: goza de uma boa posição social, tem uma família amorosa, amigos em todos os lugares e muito carisma natural. Ele também é um homem corrupto que vem se enriquecendo com fundos públicos há anos. Depois de tentar encobrir um associado, Manuel fica exposto. Para sua surpresa, os membros do Partido procuram colocar a culpa por toda a trama em seus ombros. Mas ele não vai se render. Até que ponto uma pessoa está disposta a ir para se manter no poder?</info>
+</item>
+
+
 
 
 
