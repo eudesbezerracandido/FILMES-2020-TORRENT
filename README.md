@@ -1027,6 +1027,15 @@ Enredo: 2038: George Almore está trabalhando em um verdadeiro AI humano-equival
 <info>Manuel Gómez Vidal é um político amado em sua região: goza de uma boa posição social, tem uma família amorosa, amigos em todos os lugares e muito carisma natural. Ele também é um homem corrupto que vem se enriquecendo com fundos públicos há anos. Depois de tentar encobrir um associado, Manuel fica exposto. Para sua surpresa, os membros do Partido procuram colocar a culpa por toda a trama em seus ombros. Mas ele não vai se render. Até que ponto uma pessoa está disposta a ir para se manter no poder?</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] SAFETY [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d378c84f8b85ec2543a33043386e34b0e6c2a155</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/aKWe6JLwdQRjZFTwSLGWy2IUbvi.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> A história de Ray-Ray McElrathbey, um jogador de futebol americano calouro da Universidade Clemson, que secretamente criou seu irmão mais novo no campus depois que sua vida em casa ficou instável.</info>
+</item>
+
+
 
 
 
