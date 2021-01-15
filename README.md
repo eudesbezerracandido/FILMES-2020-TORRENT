@@ -1035,6 +1035,17 @@ Enredo: 2038: George Almore está trabalhando em um verdadeiro AI humano-equival
 <info> A história de Ray-Ray McElrathbey, um jogador de futebol americano calouro da Universidade Clemson, que secretamente criou seu irmão mais novo no campus depois que sua vida em casa ficou instável.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] ENTRE ARMAS E BRINQUEDOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b1b121e467ef454320bca0f0b3bfff30bb22beb9</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/WhAfI9GIgrOF4rasrtmvWOrjnX.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Enquanto um Papai Noel desordeiro e nada ortodoxo luta contra a falência de seus negócios, um inconformado garoto de doze anos contrata um assassino para matar o Bom Velhinho como forma de vingança após receber um pedaço de carvão de presente de Natal.
+Enredo: Um rowdy, o sobrarrodoxo Papai Noel está lutando para salvar seus negócios em declínio. Enquanto isso, Billy, um jovem negligenciado e precoce de 12 anos, contrata um homem de sucesso para matar o Papai Noel depois de receber um pedaço de carvão em sua meia.</info>
+</item>
+
+
+
 
 
 
