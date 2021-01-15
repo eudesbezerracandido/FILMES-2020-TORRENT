@@ -1044,6 +1044,14 @@ Enredo: 2038: George Almore está trabalhando em um verdadeiro AI humano-equival
 Enredo: Um rowdy, o sobrarrodoxo Papai Noel está lutando para salvar seus negócios em declínio. Enquanto isso, Billy, um jovem negligenciado e precoce de 12 anos, contrata um homem de sucesso para matar o Papai Noel depois de receber um pedaço de carvão em sua meia.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] MARIA E JOÃO - O CONTO DAS BRUXAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:88dd45b0a58429356bda193525c829dc9e736517</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/nxpfEaqtBmxisC7CKgCKYv6ST5m.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Desta vez, as migalhas nos guiarão por um caminho muito mais sombrio e perturbador. Durante um período de escassez, Maria (Sophia Lillis) e seu irmão mais novo, João (Sammy Leakey), saem de casa e partem para a floresta em busca de comida e sobrevivência. É quando encontram uma senhora (Alice Krige), cujas intenções podem não ser tão inocentes quanto parecem, que eles descobrem que nem todo conto de fadas tem final feliz.</info>
+</item>
+
 
 
 
