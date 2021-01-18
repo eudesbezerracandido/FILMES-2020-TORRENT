@@ -1052,6 +1052,14 @@ Enredo: Um rowdy, o sobrarrodoxo Papai Noel está lutando para salvar seus negó
 <info> Desta vez, as migalhas nos guiarão por um caminho muito mais sombrio e perturbador. Durante um período de escassez, Maria (Sophia Lillis) e seu irmão mais novo, João (Sammy Leakey), saem de casa e partem para a floresta em busca de comida e sobrevivência. É quando encontram uma senhora (Alice Krige), cujas intenções podem não ser tão inocentes quanto parecem, que eles descobrem que nem todo conto de fadas tem final feliz.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] BRAHMS - O BONECO DO MAL 2  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:56BHFJRQ2VM2DOKWRAHDGG4VAQV4H7NT&dn=COMOEUBAIXO.COM..MKV.Brahms%20-%20Boneco%20do%20Mal%20II%20BluRay%201080p%20DUAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A1337%2Fannounce</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/g9WA3biUqXVUU4snaB2f6O24F01.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Desconhecendo a aterrorizante história da Mansão Heelshire, uma jovem família se muda para a propriedade, onde seu jovem filho logo faz um novo amigo perturbador, um boneco estranhamente real que ele chama de Brahms.</info>
+</item>
+
 
 
 
