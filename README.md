@@ -1053,8 +1053,9 @@ Enredo: Um rowdy, o sobrarrodoxo Papai Noel está lutando para salvar seus negó
 </item>
 
 <item>
-<title>[COLOR silver][B] BRAHMS - O BONECO DO MAL 2  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:56BHFJRQ2VM2DOKWRAHDGG4VAQV4H7NT&dn=COMOEUBAIXO.COM..MKV.Brahms%20-%20Boneco%20do%20Mal%20II%20BluRay%201080p%20DUAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A1337%2Fannounce</link>
+<title>[COLOR silver][B] BRAHMS - O BONECO DO MAL 2 EM 1  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:56BHFJRQ2VM2DOKWRAHDGG4VAQV4H7NT</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DD1F638ED00D243596BFF32D1981337E21E2531B</link>                                              
 <thumbnail>https://www.themoviedb.org/t/p/original/g9WA3biUqXVUU4snaB2f6O24F01.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Desconhecendo a aterrorizante história da Mansão Heelshire, uma jovem família se muda para a propriedade, onde seu jovem filho logo faz um novo amigo perturbador, um boneco estranhamente real que ele chama de Brahms.</info>
