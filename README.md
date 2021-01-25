@@ -1061,6 +1061,14 @@ Enredo: Um rowdy, o sobrarrodoxo Papai Noel está lutando para salvar seus negó
 <info>Desconhecendo a aterrorizante história da Mansão Heelshire, uma jovem família se muda para a propriedade, onde seu jovem filho logo faz um novo amigo perturbador, um boneco estranhamente real que ele chama de Brahms.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] ISOLADO NA PANDEMIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1b903d5d53608dd5dae1b3df253fc02887e68ee3</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/aI8ETMVoOf0GuBHWSiOjPaqhufI.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Após a erupção de uma pandemia global, um homem barricado sozinho em casa e racionando comida começa a tentar resgatar uma vizinha depois de uma enxame de hordas de Screamers mortos-vivos invadir seu complexo de apartamentos.</info>
+</item>
+
 
 
 
