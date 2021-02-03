@@ -1069,6 +1069,16 @@ Enredo: Um rowdy, o sobrarrodoxo Papai Noel está lutando para salvar seus negó
 <info>Após a erupção de uma pandemia global, um homem barricado sozinho em casa e racionando comida começa a tentar resgatar uma vizinha depois de uma enxame de hordas de Screamers mortos-vivos invadir seu complexo de apartamentos.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] AMEAÇA PROFUNDA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9b3826bb1bc3abc9d15df5a6886d40dd31e23dde</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/9QVsMxpZX6qyYE0yRptbyiR9YOl.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um grupo de pesquisadores se encontra em um laboratório subaquático a 11 mil metros de profundidade, quando um terremoto causa a destruição do veículo e expõe a equipe ao risco de morte. Eles são obrigados a caminhar nas profundezas marítimas, com quantidade insuficiente de oxigênio, para tentarem sobreviver.
+Enredo: Uma equipe de pesquisadores de trabalho aquático para obter a segurança depois que um terremoto devasta seu laboratório subterrâneo. Mas a equipe tem mais do que o oceano seabed a temer.</info>
+</item>
+
+
 
 
 
