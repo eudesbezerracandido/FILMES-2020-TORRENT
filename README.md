@@ -1078,6 +1078,15 @@ Enredo: Um rowdy, o sobrarrodoxo Papai Noel está lutando para salvar seus negó
 Enredo: Uma equipe de pesquisadores de trabalho aquático para obter a segurança depois que um terremoto devasta seu laboratório subterrâneo. Mas a equipe tem mais do que o oceano seabed a temer.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] MULHER MARAVILHA 1984 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:73f520cf4a28d647239000b0e8ed9d83e90392db</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/AweDlIiohqw4sjC7gCsPVd1zo77.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Em 1984, Diana Prince entra em conflito com dois inimigos formidáveis — Maxwell Lord e a Mulher-Leopardo — enquanto reencontra misteriosamente com seu antigo interesse amoroso Steve Trevor.</info>
+</item>
+
+
 
 
 
