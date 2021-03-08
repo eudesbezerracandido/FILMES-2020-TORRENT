@@ -1086,6 +1086,15 @@ Enredo: Uma equipe de pesquisadores de trabalho aquático para obter a seguranç
 <info> Em 1984, Diana Prince entra em conflito com dois inimigos formidáveis — Maxwell Lord e a Mulher-Leopardo — enquanto reencontra misteriosamente com seu antigo interesse amoroso Steve Trevor.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] ARCHIVE - Ó PROTOTIPO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1a02e92fc6bcf22889987209fc5009fd1edfe66c</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/1tjGwi7Y8Pji1WYKCnvdWuhQz1u.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>2038: George Almore está trabalhando em uma verdadeira AI equivalente humana. Seu mais recente protótipo está quase pronto. Esta fase sensível é também a mais arriscada. Especialmente porque ele tem um objetivo que deve ser escondido a todo custo: estar reunido com sua esposa morta.</info>
+</item>
+
+
 
 
 
