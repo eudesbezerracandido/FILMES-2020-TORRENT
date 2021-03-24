@@ -1094,6 +1094,15 @@ Enredo: Uma equipe de pesquisadores de trabalho aquático para obter a seguranç
 <info>2038: George Almore está trabalhando em uma verdadeira AI equivalente humana. Seu mais recente protótipo está quase pronto. Esta fase sensível é também a mais arriscada. Especialmente porque ele tem um objetivo que deve ser escondido a todo custo: estar reunido com sua esposa morta.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] CROCODILOS - A MORTE TE ESPERA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:99365be40b0ebeda413bbcf414d66e720091cfc3</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/9I2ATBaOfwXo23vSBfEAQ3uZhGV.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um casal apaixonado por aventura convence seus amigos a explorar um remoto sistema de cavernas nas florestas australianas. Com uma tempestade se aproximando, eles adentram na caverna, que começa a encher, os deixando presos com um grupo de crocodilos.</info>
+</item>
+
+
 
 
 
