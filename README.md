@@ -1102,6 +1102,15 @@ Enredo: Uma equipe de pesquisadores de trabalho aquático para obter a seguranç
 <info>Um casal apaixonado por aventura convence seus amigos a explorar um remoto sistema de cavernas nas florestas australianas. Com uma tempestade se aproximando, eles adentram na caverna, que começa a encher, os deixando presos com um grupo de crocodilos.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] DOOM - A ANIQUILAÇÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:454fe96be39053757bca6e0b77a44d1519bfff5c</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7EGElXVSNnqcPjuhXPd6UVUX1rD.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um grupo de fuzileiros navais espaciais responde a um pedido de socorro em uma base localizada em um lua marciana. Logo descobrem que ela foi invadida por criaturas demoníacas espalhando o caos e devastação.</info>
+</item>
+
+
 
 
 
