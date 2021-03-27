@@ -1110,6 +1110,15 @@ Enredo: Uma equipe de pesquisadores de trabalho aquático para obter a seguranç
 <info>Um grupo de fuzileiros navais espaciais responde a um pedido de socorro em uma base localizada em um lua marciana. Logo descobrem que ela foi invadida por criaturas demoníacas espalhando o caos e devastação.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] NO FUNDO DO MAR III  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0168c231c6a2f09ff3014e9090d8e8ccc7d1556c</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/azvgqitNO0kConxAP0TUjMlpBUI.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>A Doutora Emma Collins e sua equipe estão passando o verão na ilha de Little Happy, estudando o efeito das mudanças climáticas nos grandes tubarões brancos que vêm todos os anos ao berçário próximo para dar à luz. Juntamente com os dois últimos habitantes desta antiga vila de pescadores, sua vida pacífica é interrompida quando uma equipe “científica” liderada por seu ex-namorado e biólogo marinho Richard aparece à procura de três tubarões-touro que logo descobrimos que não são apenas tubarões… e sim máquinas de matar.</info>
+</item>
+
+
 
 
 
