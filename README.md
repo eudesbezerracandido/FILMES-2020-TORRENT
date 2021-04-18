@@ -1118,6 +1118,14 @@ Enredo: Uma equipe de pesquisadores de trabalho aquático para obter a seguranç
 <info>A Doutora Emma Collins e sua equipe estão passando o verão na ilha de Little Happy, estudando o efeito das mudanças climáticas nos grandes tubarões brancos que vêm todos os anos ao berçário próximo para dar à luz. Juntamente com os dois últimos habitantes desta antiga vila de pescadores, sua vida pacífica é interrompida quando uma equipe “científica” liderada por seu ex-namorado e biólogo marinho Richard aparece à procura de três tubarões-touro que logo descobrimos que não são apenas tubarões… e sim máquinas de matar.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] FUGA PELA FRONTEIRA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2e697e9f7084a89ca1061975caaea0b54a8fae7f</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/yTrKZdCoARyXmuDBX7rahgrydhm.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Natal de 1942, os pais de Gerda e Otto são detidos por participação no movimento de resistência norueguês durante a Segunda Guerra. Após a prisão, os irmãos descobrem duas crianças judias escondidas em sua casa. Cabe agora a Gerda e Otto terminar o que seus pais começaram: ajudar Sarah e Daniel a fugir dos nazistas, cruzar a fronteira para a Suécia neutra e reencontrar seus pais.</info>
+</item>
+
 
 
 
