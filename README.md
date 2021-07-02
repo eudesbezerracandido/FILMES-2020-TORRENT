@@ -1126,6 +1126,20 @@ Enredo: Uma equipe de pesquisadores de trabalho aquático para obter a seguranç
 <info>Natal de 1942, os pais de Gerda e Otto são detidos por participação no movimento de resistência norueguês durante a Segunda Guerra. Após a prisão, os irmãos descobrem duas crianças judias escondidas em sua casa. Cabe agora a Gerda e Otto terminar o que seus pais começaram: ajudar Sarah e Daniel a fugir dos nazistas, cruzar a fronteira para a Suécia neutra e reencontrar seus pais.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] AVA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6957a26b9a777de77c53898ad6fa74522e2899d7</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/6llUjNLsLiAcpIOer9LR631HPoU.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Atormentada por dúvidas, uma assassina de elite luta para proteger a si mesma e a sua família depois que uma missão dá errado.
+Enredo: Ava é um assassino mortal que trabalha para uma organização ops preto, viajando pelo mundo especializada em hits de alto perfil. Quando um trabalho passa perigosamente errado ela é forçada a lutar por sua própria sobrevivência.</info>
+</item>
+
+
+
+
+
+
 
 
 
