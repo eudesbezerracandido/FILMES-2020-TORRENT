@@ -1,5 +1,14 @@
 # FILMES-2020-TORRENT
 FILMES  2020  TORRENT
+
+<item>
+<title>[COLOR silver][B] BAD BOYS PARA SEMPRE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5dee67b8557eeb9b4e4efada94d96b81f0e69ee5</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/lkWYrzLIclGj56r4NJxuWeisK9R.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Marcus Burnett (Martin Lawrence) agora é um inspetor e Mike Lowrey (Will Smith) se encontra numa crise de meia-idade. Mas a dupla tem que se juntar novamente quando um mercenário albanês, cujo irmão foi capturado por eles, promete um bônus de vingança justamente quando eles estão prestes a se aposentar.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] MULAN [/COLOR][/B][COLOR yellow] FULL HD [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4959a62ed0ed34203fe654fbe69f659ab25887a2</link>
@@ -1053,15 +1062,6 @@ Enredo: Um rowdy, o sobrarrodoxo Papai Noel está lutando para salvar seus negó
 </item>
 
 <item>
-<title>[COLOR silver][B] BRAHMS - O BONECO DO MAL 2 EM 1  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:56BHFJRQ2VM2DOKWRAHDGG4VAQV4H7NT</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DD1F638ED00D243596BFF32D1981337E21E2531B</link>                                              
-<thumbnail>https://www.themoviedb.org/t/p/original/g9WA3biUqXVUU4snaB2f6O24F01.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Desconhecendo a aterrorizante história da Mansão Heelshire, uma jovem família se muda para a propriedade, onde seu jovem filho logo faz um novo amigo perturbador, um boneco estranhamente real que ele chama de Brahms.</info>
-</item>
-
-<item>
 <title>[COLOR silver][B] ISOLADO NA PANDEMIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1b903d5d53608dd5dae1b3df253fc02887e68ee3</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/aI8ETMVoOf0GuBHWSiOjPaqhufI.jpg</thumbnail>
@@ -1134,6 +1134,17 @@ Enredo: Uma equipe de pesquisadores de trabalho aquático para obter a seguranç
 <info>Atormentada por dúvidas, uma assassina de elite luta para proteger a si mesma e a sua família depois que uma missão dá errado.
 Enredo: Ava é um assassino mortal que trabalha para uma organização ops preto, viajando pelo mundo especializada em hits de alto perfil. Quando um trabalho passa perigosamente errado ela é forçada a lutar por sua própria sobrevivência.</info>
 </item>
+
+<item>
+<title>[COLOR silver][B] BRAHMS - O BONECO DO MAL 2 EM 1  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:56BHFJRQ2VM2DOKWRAHDGG4VAQV4H7NT$nome=O BONECO DO MAL 1</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DD1F638ED00D243596BFF32D1981337E21E2531B$nome=O BONECO DO MAL 2</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/g9WA3biUqXVUU4snaB2f6O24F01.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Desconhecendo a aterrorizante história da Mansão Heelshire, uma jovem família se muda para a propriedade, onde seu jovem filho logo faz um novo amigo perturbador, um boneco estranhamente real que ele chama de Brahms</info>
+</item>
+
+
 
 
 
