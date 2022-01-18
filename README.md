@@ -1,6 +1,16 @@
 # FILMES-2020-TORRENT
 FILMES  2020  TORRENT
 
+
+
+<item>
+<title>[COLOR silver][B] HIGH LIFE-UMA NOVA VIDA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a449b6b3432c9ecb26e9706edb25329c7384c489</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/1OmHJI83sqYH2y82EJHkqqEKOt9.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um grupo de criminosos aceita um acordo para trocar suas penas pela participação em uma missão espacial à procura de energias alternativas, mas a viagem toma rumos inesperados quando uma tempestade de raios cósmicos atinge a nave.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] BAD BOYS PARA SEMPRE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5dee67b8557eeb9b4e4efada94d96b81f0e69ee5</link>
