@@ -1,7 +1,16 @@
 # FILMES-2020-TORRENT
-FILMES  2020  TORRENT
 
 
+
+
+
+<item>
+<title>[COLOR silver][B] UM LOBISOMEN DA INGLATERRA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F51E588812953620C18372F41E87B629C817C4C3</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/3sEZ8OJl7sfkEgwsPq9466J3QGC.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Na Inglaterra da era vitoriana, um conselheiro paroquial e criminoso refugia-se de uma tempestade, em uma pousada rural remota. Forçados a passar a noite, eles logo descobrem um pacto mortal entre os estranhos Innkeepers e os lobisomens famintos por carne que habitam as florestas circundantes … agora, com os lobisomens se aproximando, os convidados devem se unir e lutar com unhas e dentes para sobreviver a noite!</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] HIGH LIFE-UMA NOVA VIDA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
