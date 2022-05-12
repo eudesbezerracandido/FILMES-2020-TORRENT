@@ -11,6 +11,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] ILHA DA FANTASIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0744ed0f7c417cf4e9bb330eecf283d762917a1c</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/zEae3Y5gB7e8Z3LZWsMWZcrsf92.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> O enigmático Mr. Roarke (Michael Peña) serve de anfitrião para uma exótica ilha que realiza os sonhos secretos de seus ilustres convidados. Mas quando as fantasias se tornam pesadelos, eles terão que decifrar o mistério da ilha para escapar com suas vidas.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] UM LOBISOMEN DA INGLATERRA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F51E588812953620C18372F41E87B629C817C4C3</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/3sEZ8OJl7sfkEgwsPq9466J3QGC.jpg</thumbnail>
