@@ -19,6 +19,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] NINGUÉM SABE QUE ESTOU AQUI [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ab6a89d70bbd08290e944c05d47d026161cb0d25</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7skWvQPBYJV5YPNHg1cgG15E3Z8.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Traumatizado, um ex-cantor mirim se afasta de tudo e todos, até que uma mulher oferece uma oportunidade para ele fazer as pazes com o passado.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] ILHA DA FANTASIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0744ed0f7c417cf4e9bb330eecf283d762917a1c</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/zEae3Y5gB7e8Z3LZWsMWZcrsf92.jpg</thumbnail>
