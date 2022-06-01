@@ -11,6 +11,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] A CHORONA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5b82a0682d369f6f4ce53d0cbdb509cb6fa2975b</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/Agi0zMOOOqQCn1kM2ds9k5wDamJ.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>O general aposentado, Enrique, finalmente enfrenta julgamento pelo massacre genocida de milhares de maias décadas atrás. Enquanto uma horda de manifestantes raivosos ameaça invadir seu lar opulento, as mulheres da casa – sua esposa arrogante, filha em conflito e neta precoce – refletem sobre sua responsabilidade de proteger Enrique, errático e senil, contra as verdades devastadoras que são reveladas publicamente enquanto começam a sentir uma força sobrenatural em busca de vingança por seus crimes. Enquanto isso, grande parte dos empregados da família foge, deixando apenas a governanta leal Valeriana até que uma misteriosa jovem indígena chega…</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] ILHA DA FANTASIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0744ed0f7c417cf4e9bb330eecf283d762917a1c</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/zEae3Y5gB7e8Z3LZWsMWZcrsf92.jpg</thumbnail>
