@@ -19,6 +19,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] VINGANÇA ADORMECIDA - SLEEPERS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:73765AAF9D39EBBC648844D649E26B1D1EBE6674</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/Hn9ytiU0zX2pf65BcGBvd8KXAQ.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Nos anos 60 quatro adolescentes que viviam em Hell's Kitchen, em Nova York, ferem acidentalmente uma pessoa gravemente. Eles são condenados a ir para um centro de reabilitação juvenil, onde são humilhados de todas as formas possíveis, tendo inclusive sofrido abusos sexuais dos guardas. No início dos anos 80, dois deles encontram por acaso em um bar o guarda (Kevin Bacon) que mais os humilhou. Nesta hora a vingança dos quatro amigos tem seu início.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] NINGUÉM SABE QUE ESTOU AQUI [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ab6a89d70bbd08290e944c05d47d026161cb0d25</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/7skWvQPBYJV5YPNHg1cgG15E3Z8.jpg</thumbnail>
