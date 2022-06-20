@@ -19,6 +19,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] SYNCHRONIC [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fa8ac9e2359e830edb645f95f29f62ca0126aa17</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/6GhVw9LDcVTRRdiExyqhLCVhi43.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>A vida de dois paramédicos de Nova Orleans é destruída depois de encontrar uma série de mortes horríveis ligadas a um medicamento com efeitos bizarros e sobrenaturais.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] VINGANÇA ADORMECIDA - SLEEPERS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:73765AAF9D39EBBC648844D649E26B1D1EBE6674</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/Hn9ytiU0zX2pf65BcGBvd8KXAQ.jpg</thumbnail>
