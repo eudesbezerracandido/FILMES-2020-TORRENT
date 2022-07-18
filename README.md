@@ -5,9 +5,17 @@
 <item>
 <title>[COLOR silver][B] CORINGA [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fffc2fb73a965e057750e0012c55de0c80d0a3c7</link>
-<thumbnail>https://politica.estadao.com.br/blogs/fausto-macedo/wp-content/uploads/sites/41/2019/10/joker.jpg</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/original/xLxgVxFWvb9hhUyCDDXxRPPnFck.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Arthur Fleck (Joaquin Phoenix) trabalha como palhaço para uma agência de talentos e, toda semana, precisa comparecer a uma agente social, devido aos seus conhecidos problemas mentais. Após ser demitido, Fleck reage mal à gozação de três homens em pleno metrô e os mata. Os assassinatos iniciam um movimento popular contra a elite de Gotham City, da qual Thomas Wayne (Brett Cullen) é seu maior representante.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] RAÇA E REDENÇÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:109efdfdac8f6f9a13d5b46ff19fc03044976a84</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/2SZw4eBmDRDGjgG7ACxBdiiKBpO.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Ativista de direitos civis Ann Atwater (Taraji P. Henson), bate de frente com C.P. Ellis (Sam Rockwell), líder exaltado do Ku Klux Klan em Durham, na Carolina do Norte, de1971, sobre a questão de integração nas escolas.</info>
 </item>
 
 <item>
