@@ -19,6 +19,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] UM MUNDO ENCANTADO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4f44de1786fdde20f0c0110a321b215425e0fd29</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/r3RRu2joBRWoKh5Qb4vdLuBpcPm.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Durante o fim de semana anual da família em um parque temático, Teun, de onze anos, descobre que seu avô recentemente falecido deixou para ele uma última caça ao tesouro dentro do parque. Teun embarca em uma expedição emocionante pelo parque com sua peculiar tia Ada para descobrir exatamente o que seu avô escondeu para ele.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] A CHORONA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5b82a0682d369f6f4ce53d0cbdb509cb6fa2975b</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/Agi0zMOOOqQCn1kM2ds9k5wDamJ.jpg</thumbnail>
