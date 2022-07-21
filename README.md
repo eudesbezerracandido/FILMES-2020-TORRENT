@@ -11,6 +11,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] HERÓI DA LIBERDADE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:79c7ff095e442b9b1edafacf25b7ef8a2e6792bb</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/nD3eegYICfOZmQTENopz8NXu4Ci.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Buscando dar ao filho um destino justo, um homem escravizado consegue fugir e juntar-se aos abolicionistas. Reunindo sua força ancestral, lidera um ataque que resultará na Guerra Civil americana. Um herói deixado de fora dos livros de história.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] RAÇA E REDENÇÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:109efdfdac8f6f9a13d5b46ff19fc03044976a84</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/2SZw4eBmDRDGjgG7ACxBdiiKBpO.jpg</thumbnail>
