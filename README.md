@@ -11,6 +11,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B]  TERREMOTO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:daac09261036f8429214a876e6d8814e64511b2f</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/8n4adxNvVKNedDH1mBYWE6S0wr7.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Em 1904, um terremoto de magnitude 5,4 na escala Richter sacudiu Oslo. Seu epicentro foi no "Oslo Graben", uma fenda que atravessa diretamente a cidade. Desde então, a população da capital norueguesa pode esperar futuros terremotos na área.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] HERÓI DA LIBERDADE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:79c7ff095e442b9b1edafacf25b7ef8a2e6792bb</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/nD3eegYICfOZmQTENopz8NXu4Ci.jpg</thumbnail>
