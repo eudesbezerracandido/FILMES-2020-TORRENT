@@ -19,14 +19,6 @@
 </item>
 
 <item>
-<title>[COLOR silver][B] SANTA EVITA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:Q4H2N3AV325CF726HIAJTVL4GXHPLVSN</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/jc9rB1qmw2aCsekYrCpsq31opko.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info> Santa Evita é uma futura série biográfica histórica argentina para televisão, baseada no romance homônimo de 1995 de Tomás Eloy Martínez, para o Star+. O enredo seguirá a vida de Eva Perón, sua morte aos 33 anos e o destino posterior de seu cadáver embalsamado.</info>
-</item>
-
-<item>
 <title>[COLOR silver][B]  TERREMOTO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:daac09261036f8429214a876e6d8814e64511b2f</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/8n4adxNvVKNedDH1mBYWE6S0wr7.jpg</thumbnail>
