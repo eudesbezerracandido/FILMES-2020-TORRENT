@@ -19,6 +19,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B]  MEU PRIMO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:57c845e43e85842a66a01225ae15bdba03692dcb</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/g9ujj6U1E7uotn75TKtILAAysv2.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>O CEO de uma grande empresa internacional de vinhos deve se reunir novamente com seu primo desajeitado para renovar o contrato, permitindo que ele administre a marca, passando por um leque de aventuras e catástrofes no processo.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B]  TERREMOTO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:daac09261036f8429214a876e6d8814e64511b2f</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/8n4adxNvVKNedDH1mBYWE6S0wr7.jpg</thumbnail>
