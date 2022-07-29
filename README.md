@@ -11,6 +11,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] HORROR SANGRENTO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DX6G7MUYZ2JTLI7WE7RPWB7XGWTKTFXK</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/oijfCGUjtLogKpcOyK7KZnxaKXi.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Os mortos estão voltando à vida fora da reserva isolada de Mi'gMaq, em Red Crow, exceto por seus habitantes indígenas que são estranhamente imunes à praga de zumbis.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] HERANÇA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:37558ee7550c93924a03eda64eecfeb480037143</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/zXPjfu3ONgUMmN73Ot0d2RXLJbp.jpg</thumbnail>
