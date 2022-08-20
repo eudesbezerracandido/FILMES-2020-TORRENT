@@ -495,7 +495,7 @@ Enredo: jornada de um homem para o futuro para salvar um mundo agonizante.</info
 
 <item>
 <title>[COLOR silver][B] O CHAMADO DA FLORESTA  [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:QXWGCX37RKZMQEHZIDTU7PKLQFLL245X&dn=Chamado%20da%20Floresta%202020%20%5B720p%5D%20%5BDUAL%5D</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:QXWGCX37RKZMQEHZIDTU7PKLQFLL245X</link>
 <thumbnail>https://ingresso-a.akamaihd.net/img/cinema/cartaz/23467-cartaz.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Depois de anos vivendo como um cachorro de estimação na casa de uma família na Califórnia, Buck precisa entrar em contato com os seus instintos mais selvagens para conseguir sobreviver em um ambiente hostil como o Alaska. Com o tempo, seu lado feroz se desenvolve e ele se torna o grande líder de sua matilha.</info>
