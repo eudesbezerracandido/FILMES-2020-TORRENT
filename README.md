@@ -23,7 +23,7 @@
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:37558ee7550c93924a03eda64eecfeb480037143</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/zXPjfu3ONgUMmN73Ot0d2RXLJbp.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Lauren Monroe é uma proeminente advogada nova-iorquina cuja vida muda inteiramente com a morte do seu pai magnata. Quando a maior parte da fortuna dele é deixada para sua mãe e seu irmão, Lauren recebe um misterioso envelope contendo instruções que a leva a descobrir um obscuro segredo mantido por seu pai por cerca de três décadas.</info>
+<info>Lauren Monroe é uma proeminente advogada nova-iorquina cuja vida muda inteiramente com a morte do seu pai magnata. Quando a maior parte da fortuna dele é deixada para sua mãe e seu irmão, Lauren recebe um misterioso envelope contendo instruções que a leva a descobrir um obscuro segredo mantido por seu pai por cerca de três décadas.</info> 
 </item>
 
 <item>
