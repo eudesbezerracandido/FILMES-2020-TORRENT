@@ -2,7 +2,7 @@
 
 
 
-<item>
+<items>
 <title>[COLOR silver][B] CORINGA [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fffc2fb73a965e057750e0012c55de0c80d0a3c7</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/xLxgVxFWvb9hhUyCDDXxRPPnFck.jpg</thumbnail>
@@ -671,7 +671,7 @@ Enredo: Em um mundo crepuscular da espionagem internacional, um agente da CIA se
 <thumbnail>https://viatorrents.com/imagens/o-caderno-de-tomy-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Lutando contra um câncer terminal, uma mulher escreve um caderno único sobre a vida, a morte e o amor de seu filho para se lembrar dela. Baseado em uma história verdadeira.</info>
-</item>
+</items>
 
 
 
