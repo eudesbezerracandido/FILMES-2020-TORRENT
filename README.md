@@ -539,7 +539,7 @@ Enredo: Em um mundo crepuscular da espionagem internacional, um agente da CIA se
 <item>
 <title>[COLOR silver][B]  MUSSUM - DOCUMENTARIO  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7c08fc583d46936b0cae8556dae99d2207505412</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BNWVmMWRmYjAtYjU3Ny00NjNmLTk0ZDgtNDNjZjMyYjgxZTU0XkEyXkFqcGdeQXVyOTE5MDE5NQ@@._V1_UY1200_CR751,0,630,1200_AL_.jpg</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/original/ec0UeELw5HnGHzwkDtMZstFYpGC.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>O documentário conta a trajetória do músico e comediante Mussum de forma irreverente e com estética gráfica inovadora nos cenários e composição visual. Primeiro como vocalista do grupo Os Originais do Samba e, depois, no cinema e na TV, como integrante do humorístico Os Trapalhões, grupo que revolucionou a forma de fazer humor na teledramaturgia brasileira.</info>
 </item>
@@ -672,6 +672,576 @@ Enredo: Em um mundo crepuscular da espionagem internacional, um agente da CIA se
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Lutando contra um câncer terminal, uma mulher escreve um caderno único sobre a vida, a morte e o amor de seu filho para se lembrar dela. Baseado em uma história verdadeira.</info>
 </item>
+
+<item>
+<title>[COLOR silver][B] NOSSO  AMOR  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2a327d0e589bdebc8e62077df5302ebe69fbbc3f</link>
+<thumbnail>https://cosmonerd.com.br//uploads/2020/11/nosso-amor-filme-liam-neeson-e-Lesley-Manville1.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Tom (Liam Neeson) e Joan (Lesley Manville) formam um casal com um relacionamento fácil e muito amor que se expressa através de ternura e humor. Quando Joan é diagnosticada com câncer de mama, o curso de seu tratamento lança uma luz sobre o relacionamento deles enquanto os dois enfrentam os desafios que estão por vir e a perspectiva do que pode acontecer no futuro.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] ARMAS EM JOGO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:581e660e046aad3747c33b6317338c7e28f7fd22</link>
+<thumbnail>https://br.web.img3.acsta.net/pictures/20/10/08/18/07/2713418.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>A vida patética de Miles (Daniel Radcliffe), um desenvolvedor de jogos, toma rumos dramáticos quando ele acidentalmente se torna o novo competidor de SKIZM, uma violenta competição underground exibida ao vivo na internet, tendo que destronar a maior matadora do jogo, Nix (Samara Weaving), que está disposta a tudo para manter sua posição.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] HARD KILL HDTV [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:33a4843d986ed1f801d5f6cf070deb9884c6b5b5</link>
+<thumbnail>https://poltronanerd.com.br/wp-content/uploads/2020/07/hard_kill_xlg.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> O trabalho do bilionário CEO de tecnologia Donovan Chalmers (Willis) é tão valioso que ele contrata mercenários para protegê-lo e um grupo terrorista sequestra sua filha apenas para obtê-lo.
+Enredo: O trabalho do bilionário tecnologia CEO Donovan Chalmers (Willis) é tão valioso que ele contrata mercenários para protegê-lo, e um grupo terrorista seqüestra sua filha apenas para obtê-lo.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] ROGUE CITY  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a3ffca78d1bf86c1036809990aa49e75bbce4484</link>
+<thumbnail>https://cinema10.com.br/upload/filmes/filmes_15031_4227202.jpg-r_1920_1080-f_jpg-q_x-xxyxx.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Marselha. Tudo começa com a carnificina causada pelos homens do clã Orsoni. Richard Vronski, um policial da brigada anti-gangue com métodos pouco ortodoxos, se vê encarregado da investigação, enfrentando seus rivais, comandados por Costa, major da polícia. Um novo diretor, o comissário Angel Leonetti chega para dominar os cães loucos de sua equipe. Mas todos perceberão rapidamente que não se recebe nada sem sacrifícios ou riscos.
+Enredo: Marselha. Tudo começa com carnificina digna do assassinato do bar du Telefone, causada pelos homens do clã Orsoni. Richard Vronski, um policial da brigada anti-gang com métodos não ortodoxos, encontra-se responsável pela investigação, enfrentando seus rivais do BRB, comandado pela Costa, uma polícia maior nas ações problemáticas. Um novo diretor, o Comissário Divisional, Angel Leonetti chega a arrumar Marselha e domina os cães loucos em sua equipe. Mas tudo vai perceber rapidamente que você não recebe nada sem sacrifícios ou arriscar. Especialmente quando a filha do comissário esfrega com o anti-gangue, que os homens das cidades do norte atacam os corsicanos, que uma verdadeira testemunha é assassinada enquanto na custódia policial e que a força policial envia seu agente mais amargo. Então, Vronski e seus homens, para salvar sua pele, perderá rapidamente o mais perigoso.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] SOU SUA MULHER [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:75677aaff10e6ac0013dbc8fad1babc80edde936</link>
+<thumbnail>https://torrentsfilmeshd.tv/wp-content/uploads/2020/12/Eu-sou-sua-mulher-250x375.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Jean precisa fugir com seu filho devido aos crimes do marido. Suas vidas se entrelaçam com um homem e uma mulher, formando uma parceria improvável que os ensina mais do que apenas como sobreviver.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] ÁS CEGAS  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0b5471366966dfb0ae07453896314922dbda9b0f</link>
+<thumbnail>https://ondeeubaixo.org/imagens/as-cegas-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Após um violento assalto, Ellen fica cega e se torna reclusa do mundo, vivendo dentro de seu apartamento, esperando para que o assaltante retorne e faça seu próximo passo.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] FORÇAS MALIGNAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0f1a19765996d31f3049d0a100286365c38037f5</link>
+<thumbnail>https://ondeeubaixo.org/imagens/forcas-malignas-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Ben está viajando pro Camboja e conhece Amber. Apaixonado a primeira vista, ele descobre que ela carrega algo dentro de si e decide acompanhá-la até um curandeiro que promete livrá-la do mal.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] AVA  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2c1e9a29cd7462bed36f69629afd24c3b0a69b09</link>
+<thumbnail>https://1.bp.blogspot.com/-0XNUZ-kgp1s/X0sYRQLboCI/AAAAAAAAJJA/MuoNhvA-3vECaOL3Dbb-H1idfwYGx2yzwCLcBGAsYHQ/s1500/ava.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Eve é uma assassina, que trabalha matando alvos de alto-nível para uma organização secreta. Mas quando uma missão dá terrivelmente errado, ela é forçada a lutar pela própria sobrevivência.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B]  NO PLACE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d02cb63435834becd0e5027005fc27de527a8fba</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/pHMrbI0sfq0vBy7N5ZBiYfqO2Qs.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Mac viaja pelo condado em busca da próxima agitação. Depois que ele encerrou o negócio com seu fixador do meio-oeste, Les, ela o transformou em um grande recordista em Indianápolis com o dono de um bar local. Ele descobre que envolve sua antiga paixão, Evelyn, e logo descobre que seu passado o alcançou e ele pode não sair vivo!</info>
+</item>
+
+<item>
+<title>[COLOR silver][B]  INVASION PLANET EARTH [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a8e528208525205c81470b54ab3ac62f19faf33a</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/81go0cSeOyL._AC_SY550_.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Após a morte de sua filha, Thomas Dunn é um homem que perdeu a fé. Sua vida desmoronou e sua confiança foi destruída. No entanto, neste dia, ele acorda para descobrir que Mandy, sua amada esposa, finalmente está grávida de novo. Talvez esta seja a chance de se afastar da tragédia do passado e para ele encontrar sua fé novamente. Mas também neste dia uma grande nave-mãe alienígena aparece nos céus e as pessoas da terra são repentinamente atormentadas por visões sobre o fim da civilização. Tom e Mandy são separados enquanto a nave-mãe lança uma enorme frota alienígena que ataca as cidades da Terra. Tom deve olhar profundamente dentro de si mesmo para encontrar não apenas sua fé, mas a sabedoria e a força para salvar a raça humana dos horrores que os ameaçam. No entanto, primeiro ele deve encontrar Mandy, ao descobrir que seu novo bebê é a chave para o futuro da humanidade. As linhas de batalha estão traçadas e a postura final da Terra está prestes a começar.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] ARCHIVE (LEGE.) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9aa503adc2bf560b5c55ffbea68abe03c699aa60</link>
+<thumbnail>https://pipocamoderna.com.br/wp-content/uploads/2020/06/archive_xlg.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>2038: George Almore está trabalhando em uma verdadeira IA equivalente a humanos. Seu último protótipo está quase pronto. Essa fase sensível também é a mais arriscada. Especialmente porque ele tem um objetivo que deve estar oculto a todo custo: reunir-se com sua esposa morta.
+Enredo: 2038: George Almore está trabalhando em um verdadeiro AI humano-equivalente. Seu mais recente protótipo está quase pronto. Esta fase é sensível também o maior risco. Especialmente porque ele tem uma meta que deve ser escondido em todos os custos: sendo reunido com sua esposa morta.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B]  A CAVERNA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4ba202c17656496fe6ef749201f9a4c81b60295e</link>
+<thumbnail>https://br.web.img3.acsta.net/pictures/17/05/30/21/46/208995.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Time Trap começa com os alunos Taylor (Reiley McClendon, The Fosters) e Jackie (Brianne Howey, O Exorcista) contando com a ajuda, e caminhão, de Cara (Cassidy Gifford, The Gallows) para encontrar Hopper (Andrew Wilson, Rushmore), sua professor de arqueologia favorito que desapareceu procurando por um grupo de hippies que desapareceram anos antes, eles descobrem que o tempo subterrâneo é não é o mesmo que o tempo de superfície.
+É aparente no início que o tempo passa de forma diferente no subsolo do que na superfície, mesmo que os personagens demorem um pouco para descobrir. Foster e Dennis aumentam a tensão enquanto as crianças enfrentam uma mudança inesperada após a outra e o enredo se move de formas legitimamente surpreendentes. Com um ritmo alucinante, o Time Trap mistura-se numa pequena Terra dos Perdidos, uma dose saudável de ficção científica, sugestões de aventura claustrofóbica e momentos de WTF que o espectador só pode imaginar que diabo está a chegar Próximo.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] O ESPELHO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a34f564a18b2743df5aab18b375d544b552f8392</link>
+<thumbnail>https://i1.wp.com/plustorrents.com/wp-content/uploads/2020/08/O-Espelho.jpg?resize=240%2C340&ssl=1</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Pensando em aumentar a renda, o eletricista Ray (Nicolas Cage) e a esposa, Maggie (Robin Tunney), decidem comprar um hotel. Ray descobre que em um dos quartos tem um espelho que permite espiar o que está acontecendo lá dentro. Justamente a hóspede deste quarto é encontrada morta e agora Ray se vê como um dos suspeitos.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] AGORA ESTAMOS SOZINHOS ( LEG.) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3cd0d7df50bc7c6be182d999b4c67488f2cfc315</link>
+<thumbnail>https://media.fstatic.com/TvrMYX_ZVAjXhdZa1JrYS4nMBqo=/290x478/smart/media/movies/covers/2018/12/42295346_2228898284020742_111592591903948800_o.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Del (Peter Dinklage) está vivendo no seu maior sonho quando todo o resto da humanidade simplesmente desaparece após um misterioso acidente e ele é o único que sobra na face da Terra. Até que ele encontra uma segunda sobrevivente, Grace (Elle Fanning), que vai ameaçar toda a sua recém-encontrada ordem.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] FASCINAÇÃO MORTAL - O RETORNO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4b0e7ef2d5ff924d63ed6d8252b67f29d7cfe4c1</link>
+<thumbnail>https://media.fstatic.com/HGfTEqI4l8wes0dBKgvj_NAMtVA=/290x478/smart/media/movies/covers/2018/10/p15523380_v_v8_aa.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Julgado inocente pela tentativa de assassinato de uma ex-paciente, Dr. Albert Beck (Eric Roberts) tenta recomeçar a vida como professor em uma escola de medicina. Lá, uma estudante fica apaixonada por ele e Albert decide embarcar nessa relação. Mas, as coisas se complicam quando uma pessoa do passado reaparece.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] IP-MAN O MESTRE DO GUNG FU  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a93f7d66562471cf1029235187c69f6e440a9646</link>
+<thumbnail>https://assistirfilmesonline.pro/wp-content/uploads/2020/12/Ip-Man-O-Mestre-do-Kung-Fu.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>A promissora carreira de Ip Man como policial é arruinada depois que ele é acusado de assassinato e visado pela filha de um chefe da máfia.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] SUBMISSÃO  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:70cfb6e685544228f7b8ceb1981188f8c8e77ce2</link>
+<thumbnail>https://leiturafilmica.com.br/wp-content/uploads/2020/11/submiss%C3%A3o-poster.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Com Eric Roberts. Neste drama cristão, dois fuzileiros voltam para casa depois de passarem por inúmeros traumas no confronto com Estado Islâmico. Eles buscam um novo caminho, enquanto um tenta se recuperar de um vício, o outro reecontra o MMA.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] O GUARDIÃO DOS MUNDOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9a4a1f6cebb86a928534a10396d79a74206c7afa</link>
+<thumbnail>https://ondeeubaixo.org/imagens/o-guardiao-dos-mundos-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>O jovem moscovita Kirill é um talentoso designer de jogos de computador. Um dia, ele é completamente apagado da memória de todos que ele conhecia e amava. Kirill descobre que ele foi escolhido para uma missão importante e misteriosa: tornar-se um funcionário da alfândega entre mundos paralelos, dos quais existem dezenas no universo. Kirill desvendará o mistério desses mundos e quem os controla? E a nossa Terra é realmente apenas um "rascunho" imaginário - um mundo paralelo - que na realidade não existe ...</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] VIOLÃO  LEG. [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f8174fdd14130147b3024287d61057e03dfabba5</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/JmtaGCYsTv484MByG2AqmVqNcf.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>À beira da paternidade, um mecânico júnior a bordo de uma arca interestelar para a Nova Terra deve superar um terror cósmico malévolo com a intenção de usar a nave espacial como uma arma.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] O CAMINHO DE VOLTA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e4c9d6da9409225dc142d426ba1d6d1dbb2b1fb5</link>
+<thumbnail>https://m.media-amazon.com/images/I/91N4uE-cv0L._AC_SL1500_.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> História sobre o técnico de um time basquete de um colégio de ensino médio que anteriormente foi atleta do mesmo esporte. Por conta de vícios, sua carreira promissora como jogador foi tragicamente ao fim, assim como seu relacionamento com sua esposa e a fundação de sua família. Ao tornar-se treinador do time de escola, o ex-atleta tenta encontrar estímulos para seguir em frente e refazer sua vida.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] O CÉU DA MEIA NOITE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f0c24a7b5ab652b0b35f0607e6bc179f3b4ed205</link>
+<thumbnail>https://br.web.img2.acsta.net/pictures/20/10/27/16/08/4038955.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>A saga de Augustine (George Clooney), um cientista solitário no Ártico, que corre para impedir Sully (Felicity Jones) e seus colegas astronautas de voltarem para casa em meio a uma misteriosa catástrofe global.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] JOVENS  BRUXAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FCXXZKOAMJLXIBFMNL63QLOAPWTBFSIU</link>
+<thumbnail>https://br.web.img3.acsta.net/pictures/20/09/30/22/34/3091394.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>No filme Jovens Bruxas: Nova Irmandade Torrent – BluRay 1080p Dual Áudio, Na continuação da Blumhouse do sucesso cult Jovens Bruxas, um quarteto eclético de adolescentes aspirantes a bruxas recebe mais do que esperava ao se apoiar em seus novos poderes.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] A MALDIÇÃO DO ESPELHO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ede848d9d57eb94a3c4db5c891681f93c86d9edb</link>
+<thumbnail>https://www.cafecomfilme.com.br/media/k2/items/cache/47cf342582360a38fc77c838e4d9fa7a_XL.jpg?t=20200229_063812</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Depois que o terrível fantasma da Rainha de Espadas ressurge, os alunos de um antigo colégio interno viram as próximas vítimas do banho de sangue. O terror começa a partir do momento em que eles recitam antigos encantamentos no banheiro do local para conquistar tudo o que desejam, mesmo que o preço seja suas almas.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] O DOM DA SERPENTE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:341423cf5e0221f6e4732abdb91b55df985816d0</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/e7CVxtDcaGDpslrKZgNc0pk1OAT.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Dina, uma jovem que herdou a habilidade sobrenatural de ver os pecados e as fraquezas das outras pessoas olhando nos olhos precisa salvar sua família. Com a ajuda do pai, que ela não conhecia, Dina terá que escolher entre o seu próprio dom e a magia negra.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] O ULTIMO TURNO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d8c2c9c3c3a63ef156062896edee7529cc3812f0</link>
+<thumbnail>https://torrentool.org/imagens/o-ultimo-turno-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Stanley, um idoso trabalhador de fast food, se prepara para trabalhar em seu último turno de cemitério após 38 anos. Quando ele é convidado a treinar seu substituto, Jevon, o fim de semana de Stanley dá uma guinada inesperada.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] O MISTÉRIO DE SILVER LAKE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:df8d93a68dad9ccc947cbee3c26a5b12bf6b05b3</link>
+<thumbnail>https://br.web.img3.acsta.net/pictures/18/04/10/17/25/5495302.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Sam (Andrew Garfield) é um jovem meio perdido na vida, que um dia encontra a garota perfeita: sua vizinha, com quem passa uma noite. No dia seguinte, ela desaparece. Não existem mais sinais da garota, e todas as suas coisas desapareceram do apartamento onde habitava. Sam começa a investigar o caso, buscando todos os indícios possíveis: os pequenos rabiscos na parede, as mensagens escondidas em músicas. Seria tudo isso parte de uma grande conspiração, ou Sam está ficando louco?</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] SONHOS DE UMA VIDA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bfb200b28ba9980e0549e11c7d66c240e1e4b451</link>
+<thumbnail>https://www.cafecomfilme.com.br/media/k2/items/cache/ca1971a2be029c53c6d33c2b63246656_XL.jpg?t=20200327_153700</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> O longa segue 24 horas turbulentas na vida de um pai e sua filha, Leo e Molly, enquanto ela lida com os desafios do estado mental aparentemente caótico de seu pai, caminhando pela cidade de Nova York.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] UMA SEREIA EM PARIS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5e6ea3a7fa96270b6113d5b52818af231f7d8581</link>
+<thumbnail>https://1.bp.blogspot.com/-0OsSM9NZfao/XzmO6fOe7mI/AAAAAAAAYQQ/tqVrzRDkUsUVqMEo3HH574XUNUNtwaGJgCLcBGAsYHQ/s1600/Captura%2Bde%2BTela%2B2020-08-16%2Ba%25CC%2580s%2B4.37.06%2BPM.png</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Gaspard passou por rompimentos e acredita que não tem mais amor para dar. Um dia, ele se cruza com uma sereia ferida, Lula, pelo Sena em Paris, a leva para casa a fim de que cure em sua banheira, mas descobre que qualquer homem que se apaixona por ela morre. Inicialmente imune ao charme cativante, Gaspard se apaixona lentamente por Lula, que também se apaixona por ele.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] DUELO NO ASFALTO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:92f087952057bf4f87958b4166eb98cdaf467bf4</link>
+<thumbnail>https://ondeeubaixo.org/imagens/duelo-no-asfalto-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Roy derrapa feio na véspera do casamento e, para não perder a noiva, acaba aceitando correr contra uma nova adversária na pista de Nurburgring, na Alemanha.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] MEU BEBÊ [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:10537be37ccd09e7ecc06e4669225a37f28a92a1</link>
+<thumbnail>https://br.web.img2.acsta.net/pictures/19/06/06/15/48/4674069.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Héloise é mãe de três filhos. A mais nova, Jade, tem 18 anos. Após sua formatura ela vai para o Canadá a fim de continuar seus estudos. Quanto mais se aproxima o momento de partida mais Heloise volta às lembranças de seu relacionamento com sua filha mais nova. E para manter tantas lembranças quanto possível ela filme tudo com seu telefone.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] NINGUEM BRINCA COM JESUS QUINTANA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0005d5cc262b12c105bb73ee060fc882caef616c</link>
+<thumbnail>https://www.filmesonlinegratis.com/wp-content/uploads/2020/12/429416.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um trio de amigos desajustados vive de forma espontânea e irreverente. Quando eles inesperadamente se tornam inimigos de um cabeleireiro armado, a jornada deste trio se transforma em uma fuga constante da lei, da sociedade e do cabeleireiro, enquanto os laços de sua família externa se fortalecem.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] OS SEGREDOS QUE MANTEMOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:52b4f676f43b430ac9a74630d7ec962aec5475e6</link>
+<thumbnail>https://ondeeubaixo.org/imagens/os-segredos-que-mantemos-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Maja está reconstruindo sua vida junto com seu marido Dobie em Nova York após a Segunda Guerra Mundial. Quando eles encontram um homem estranhamente familiar, sua vida começa a se desfazer. Eles se perguntam, este poderia ser o oficial que foi um dos seus principais torturadores em Birkenau anos atrás?</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] EM UM RELACIONAMENTO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6595be69454bd85a5581e54537f6b33c3c9194ba</link>
+<thumbnail>https://1.bp.blogspot.com/-LTS-IGc2Zj8/XkqjmGZP7WI/AAAAAAABIKQ/Qy3JIKFQOk0Ku5Uk0JHVpdBO0dZvHU0yQCLcBGAsYHQ/s1600/3977489034.jpeg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Owen (Michael Angarano) e Hallie (Emma Roberts) passaram a primeira metade de seus 20 anos juntos, mas agora encontram um empecilho. Quando decidem dar um tempo, seus amigos Matt (Patrick Gibson) e Willa (Dree Hemingway) embarcam num inesperado romance. O destino dos dois casais se entrelaçam ao longo de um verão.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] UM DIA DE CHUVA EM NOVA YORK [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:04506adf10b9168b21f7854b7a14d56736a8f157</link>
+<thumbnail>https://br.web.img3.acsta.net/pictures/19/08/27/16/09/5381653.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Apaixonado por Nova York, Gatsby (Timothée Chalamet) decide passar um fim de semana na cidade ao lado de Ashleigh (Elle Fanning), sua namorada. No entanto, aquilo que era pra ser uma aventura romântica acaba tomando um rumo inesperado. Aspirante a jornalista, Ashleigh conhece o diretor de cinema Roland Pollard (Liev Schreiber), que a convida para a exibição de seu mais recente trabalho. Gatsby, por sua vez, encontra Chan (Selena Gomez), a irmã mais nova de sua ex-namorada, com quem passa o restante da viagem. Um dia de chuva em Nova York será o suficiente para fazer com que Ashleigh redescubra suas verdadeiras paixões e Gatsby aprenda que só se vive uma vez - mas que é o suficiente se for ao lado da pessoa certa.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] CAPITAL HUMANO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f5d3e18dbdfac9db27e369bbcddff2ce1240f3b1</link>
+<thumbnail>https://media.fstatic.com/YONzV_14YLkzPNTvZVQe4x1jNxY=/290x478/smart/media/movies/covers/2020/02/human_capital.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>O filme segue a vida de duas famílias - uma de classe média e a outra privilegiada - suas vidas se entrecruzam na divisão social quando dois de seus filhos de repente iniciam um relacionamento, que leva a um trágico acidente.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] VERDADE E JUSTIÇA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:987ad6e96c60f1d2edcf3d423b3f9b135c57df3a</link>
+<thumbnail>https://leiturafilmica.com.br/wp-content/uploads/2020/10/Verdade-e-Justi%C3%A7a_poster.jpg</thumbnail>
+<fanart>ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Estônia, 1870. O jovem Andres, juntamente com sua esposa Krõõt, chegam a uma fazenda comprada com um empréstimo para estabelecer sua nova vida. Desolada e negligenciada entre os pântanos, a propriedade deve ser transformada em um lugar onde cuidarão da família. Tudo o que eles precisam fazer é romper a resistência da terra árida, conseguir a cooperação do vizinho e criar um herdeiro, um filho para herdar o trabalho da vida de seu pai. Mas quando a natureza se recusa a se curvar, o vizinho acaba sendo um rival grosseiro, e Krõõt continua dando à luz apenas filhas, Andres luta para encontrar o caminho certo. Em sua busca desesperada pela verdade e pela justiça, ele sacrifica sua família, seus amigos e, eventualmente, a si mesmo. O belo sonho de prosperar e administrar a fazenda dá lugar a uma obsessão, resultando em nada do que Andres queria e tudo o que ele temia. Representante da Estônia no Oscar 2020 de Filme Estrangeiro e um dos 10 semifinalistas.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] QUANDO A VIDA ACONTECE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:77447e779b85b417ac50240c7b2623374d476f75</link>
+<thumbnail>https://media.fstatic.com/iVK6zZvSePsZcJ6Tz5Jy3spvrK8=/290x478/smart/media/movies/covers/2020/10/cats_dDJ0jKf.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um casal que enfrenta problemas de fertilidade tem seu casamento testado durante as férias em um resort na Sardenha – e a família ao lado só aumenta a tensão.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] MEIA IRMÃ [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8ac49b8f303b1c4b6b62a98f61ef2225cf374502</link>
+<thumbnail>https://www.thepiratefilmestorrent.tv/wp-content/uploads/2020/11/Meia-irm%C3%A3.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Sinaloa (Sophie Reid) é uma jovem britânica que ruma em direção ao Texas para encontrar Merle (Allison Tolman), sua meia-irmã por parte do seu falecido pai, que era músico do ritmo country. Não demora para que Sinaloa se insira na vida de Merle. Sua música acorda algo na vida da sua nova meia-irmã, apagando as dúvidas do parentesco entre as duas. Enquanto o legado musical da família trouxe esta estranha para a cidade, motivos mais obscuros estão entrelaçados na música que Sinaloa canta, mostrando sinais de uma violenta raiva construída há anos.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] MOSTROS DO HOMEM LEG. [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cc59004b118e89a39243a1f2878afce29a453424</link>
+<thumbnail>https://image.tmdb.org/t/p/w300/uoYHGazS5wLQFJe7tqZ39M8dA7Q.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Uma empresa de robótica que tenta ganhar um lucrativo contrato militar se alia a um agente corrupto da CIA para conduzir um teste ilegal de campo ao vivo. Eles lançam quatro protótipos de robôs armados em um campo suspeito de fabricação de drogas no Triângulo Dourado, presumindo que estariam matando traficantes de drogas que ninguém perderia. Seis médicos em uma missão humanitária testemunham o massacre brutal e se tornam os principais alvos.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] A PORTEIRA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7f802dfc3c77005490ef3a5b28db92ee5d66e1bc</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/lh9jmB0FVXjjs4z9ehX6O5wN915.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uma mulher retorna do combate e faz amizade com uma família em Nova York. Quando uma quadrilha de ladrões planeja levar os objetos de valor da família, ela luta para defender a família.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] JOGOS ENTRE AMIGOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0409a694f333d7b3163470a168920f3a55fb524d</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/qrFr8NVI5EuHbCn5dDpO2fNPhSg.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um grupo de amigos se reencontra para jogar o Buddy Game. Essa é uma variedade selvagem de desafios físicos e mentais absurdos. No processo, eles curam feridas antigas e logo após os erros descobrem o verdadeiro significado da amizade – ou morrem tentando.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] CÉU EM CHAMAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f4b3994d4d0dc42aeb0b5edde7bab0be0d04dca7</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/6i8NsvKi4azatHd7s8f42qsAb86.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Tianhuo, ilha vulcânica costa da China. 20 anos atrás, o vulcanologista Li Wentao (Wang Xueqi) perde sua esposa durante uma súbita erupção. Dias atuais o empresário australiano Jack Harris (Jason Isaacs) constrói o primeiro parque tematico que tem como atração principal um Vulcão. Xiao Meng (Hannah Quinlivan) faz parte da equipe científica que monitora o vulcão graças a centenas de sensores enterrados na montanha. Li viaja até a ilha para convencer sua filha a voltar para casa – mas o inevitável acontece, o vulcão acorda e todo o inferno se abre.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] BILL E TED - ENCARE A MÚSICA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1d7409c8cfa48377924b08c6a3bebbe623dd6e35</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/sgjMLke8LXPbcbZQ5s1LNow9D0d.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> As apostas estão mais altas que nunca para os dois amigos viajantes do tempo, agora já na meia-idade, em uma nova aventura buscando a canção que trará harmonia ao universo, ajudados por suas filhas, figuras históricas e lendas da música.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] INVASÃO ZUMBI 2 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9c188ed4e4703fbeadaffefc3dfadfc72a8af853</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/aiuyPKXroBtOadGzTOmjz6k5Y7m.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>A península coreana ficou devastada após o surto de zumbis que atingiu os passageiros de um trem-bala com destino a Buscan há quatro anos. Com isso, um ex-soldado que conseguiu fugir do país, Jung-seok, tem a missão de retornar e acaba encontrando alguns sobreviventes.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] O CASO COLLINI [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:49c4b3a864d944faee7df539712740730a36d6a7</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/xgAwiFtSQu2uGlQuCtVnQ5yWKE4.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um jovem advogado se depara com uma vasta conspiração, enquanto investiga um caso de assassinato brutal.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] EM BUSCA DE UM MILAGRE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:53b8bd6f366ff5d87bc610d0d0221da51d160d9a</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/tV4RPHjdpR5Yfe4e6gpGjp13kW4.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>O mundo de Luke vira de cabeça pra baixo quando perde sua esposa na mesma noite em que se torna pai. Com a ajuda da nova babá, Sage, ele vai aprender que nunca é tarde para amar de novo.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] A MÃE ERRADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:38c12fdb45472f522acfd718272e04ee54edba4b</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/rp95wf7lL8j7kIrHkJW6SrtAD9p.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Após receber uma promoção no trabalho, a jovem Melanie contrata uma assistente pessoal que parece perfeita, mas a aprendiz tem um motivo oculto para aceitar o emprego.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] COVID -  21 ( LEG.) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4b7bc870144b9e5b2846c28588cb6989b9224099</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/5z8wVwHtFXbRWP2dwVPTj9906HS.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>A mudança climática liberou um antigo vírus da raiva preso no gelo da Antártica.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] MINIMALISMO JÁ - DOCUMENTÁRIO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0406f1ff0a4f763ffca47dee30b164a8f3d63203</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/l9D2PbIfXwnsuCR1CRNaPNIbHTj.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Os minimalistas reformularam essa frase para criar um senso de urgência para a cultura de consumo de hoje: agora é a hora de menos.</info>
+</item> 
+
+<item>
+<title>[COLOR silver][B] A ROSA VENENOSA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3d31e1b6a5a65dc1785b5546d791885b48b52796</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/g0yhg61JGBjoWlqj9Lus3XiQA3i.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Inspirado no clássico filme noir The Poison Rose, estrelado por Carson Phillips, uma ex-astro de futebol virou detetive particular, que tem um fraquinho por uma senhora em perigo. Como os contos clássicos fiados pelos mestres, ele assume um caso de pessoa desaparecida que lentamente se revela uma teia complexa de crimes, suspeitos e cadáveres. Quando ele descobre que sua filha há muito tempo perdida, é o suspeito número um, ele corre contra o relógio para salvá-la, resolver os assassinatos, e descobrir os segredos sujos da cidade.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] A TABACARIA  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7766b605e693c12f39f588591415b70ec8c71f6</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/w4h717rbBuy78KgxtMKCZThWjF2.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Baseado no best-seller internacional "The Tobacconist", escrito por Robert Seethaler. Uma história terna, de partir o coração, sobre um jovem e sua amizade com Sigmund Freud durante a ocupação nazista de Viena.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] PIECES OF WOMAN [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2a4d45ca66893f02735f0a48100b80aaf831f57d</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/uXBd4EH27EYeSb7uVSPyiE9lYVd.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Martha (Vanessa Kirby) e Sean Carson (Shia Labeouf) são um casal de Boston à beira da paternidade, cujas vidas mudam irrevogavelmente durante um parto domiciliar nas mãos de uma parteira perturbada, que enfrenta acusações de negligência criminosa. Assim começa um longo ano para Martha, que deve navegar em sua dor enquanto trabalha em relacionamentos turbulentos com seu marido e sua mãe dominadora, junto com a parteira publicamente difamada que ela deve enfrentar no tribunal.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] TONY PARKER - ENTRE OS MAIORES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b802557baea5d8cebc802775fc2fe0353e6c412d</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/8zrgid8f6c2ODn2T94jKfopOF4C.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Conheça Tony Parker de perto e entenda como sua determinação pode tê-lo transformado no maior jogador de basquete da França.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] AS FACES DO DEMÔNIO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cfc0e52cec9b1b23eafb1921a182b8a35dc68088</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/2cTxraUCvMYUt5bfzfrUtCx1xHZ.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um espírito maligno que muda de rostos se infiltra em uma família colocando um irmão em perigo enquanto o outro tenta salvá-lo.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B]  PALAVRAS DE FAMILIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:668cb52f532865bafd36a00135ba5cd0fad1c005</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/4HpeBLMs3wuu2BuxOp6AM1NP3AV.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Alan (Bill Nighy) é um alfaiate que fecha a loja para se mudar com o seu filho mal-humorado Peter e o neto Jack. Há uma distância entre Alan e Peter enquanto ele culpa seu pai pelo desaparecimento de seu irmão Michael. Enquanto isso, Alan e Jack começam a se unir ao seu jogo favorito. O conflito leva a um ponto de inflexão quando Alan está convencido de que o adversário online 'Scrabble' pode realmente ser seu filho desaparecido e decide tentar encontrar o jogador pessoalmente.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] A COR QUE CAIU DO ESPAÇO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b8a4487fa43a1feec88a578b67ed8790e9b8d32f</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/xIhyTS2ZULrv3zQ7whMojcSgNn2.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Os Gardners são uma família que se muda para uma fazenda remota na zona rural da Nova Inglaterra para escapar da agitação do século XXI. Eles estão ocupados se adaptando à sua nova vida quando um meteorito cai no seu quintal da frente. O misterioso aerólito parece fundir-se com a terra, infectando tanto a terra quanto as propriedades do espaço-tempo com uma estranha cor sobrenatural. Para seu horror, a família Gardner descobre que essa força alienígena está gradualmente transformando todas as formas de vida que ela toca… incluindo-as.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] A ASSISTENTE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:433186074815753b22161d554b2151d30bf4806</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/36R8qqx51WE7IkHcn4BohLzLqGY.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Jane é uma aspirante a produtora de cinema que recentemente conseguiu seu emprego dos sonhos como assistente júnior de um poderoso magnata do entretenimento. O dia dela é muito parecido com o de qualquer outra assistente. Mas, à medida que Jane segue sua rotina diária, ela começa a perceber todos os abusos que envolvem seu ambiente de trabalho e sua posição profissional.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] O CANDIDATO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:afaf437b5b1dbdbad49681e94e52b8d64c40a988</link>
+<thumbnail>https://ondeeubaixo.org/imagens/o-candidato-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Manuel Gómez Vidal é um político amado em sua região: goza de uma boa posição social, tem uma família amorosa, amigos em todos os lugares e muito carisma natural. Ele também é um homem corrupto que vem se enriquecendo com fundos públicos há anos. Depois de tentar encobrir um associado, Manuel fica exposto. Para sua surpresa, os membros do Partido procuram colocar a culpa por toda a trama em seus ombros. Mas ele não vai se render. Até que ponto uma pessoa está disposta a ir para se manter no poder?</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] SAFETY [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d378c84f8b85ec2543a33043386e34b0e6c2a155</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/aKWe6JLwdQRjZFTwSLGWy2IUbvi.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> A história de Ray-Ray McElrathbey, um jogador de futebol americano calouro da Universidade Clemson, que secretamente criou seu irmão mais novo no campus depois que sua vida em casa ficou instável.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] ENTRE ARMAS E BRINQUEDOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b1b121e467ef454320bca0f0b3bfff30bb22beb9</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/WhAfI9GIgrOF4rasrtmvWOrjnX.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Enquanto um Papai Noel desordeiro e nada ortodoxo luta contra a falência de seus negócios, um inconformado garoto de doze anos contrata um assassino para matar o Bom Velhinho como forma de vingança após receber um pedaço de carvão de presente de Natal.
+Enredo: Um rowdy, o sobrarrodoxo Papai Noel está lutando para salvar seus negócios em declínio. Enquanto isso, Billy, um jovem negligenciado e precoce de 12 anos, contrata um homem de sucesso para matar o Papai Noel depois de receber um pedaço de carvão em sua meia.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] MARIA E JOÃO - O CONTO DAS BRUXAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:88dd45b0a58429356bda193525c829dc9e736517</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/nxpfEaqtBmxisC7CKgCKYv6ST5m.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Desta vez, as migalhas nos guiarão por um caminho muito mais sombrio e perturbador. Durante um período de escassez, Maria (Sophia Lillis) e seu irmão mais novo, João (Sammy Leakey), saem de casa e partem para a floresta em busca de comida e sobrevivência. É quando encontram uma senhora (Alice Krige), cujas intenções podem não ser tão inocentes quanto parecem, que eles descobrem que nem todo conto de fadas tem final feliz.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] ISOLADO NA PANDEMIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1b903d5d53608dd5dae1b3df253fc02887e68ee3</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/aI8ETMVoOf0GuBHWSiOjPaqhufI.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Após a erupção de uma pandemia global, um homem barricado sozinho em casa e racionando comida começa a tentar resgatar uma vizinha depois de uma enxame de hordas de Screamers mortos-vivos invadir seu complexo de apartamentos.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] AMEAÇA PROFUNDA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9b3826bb1bc3abc9d15df5a6886d40dd31e23dde</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/9QVsMxpZX6qyYE0yRptbyiR9YOl.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um grupo de pesquisadores se encontra em um laboratório subaquático a 11 mil metros de profundidade, quando um terremoto causa a destruição do veículo e expõe a equipe ao risco de morte. Eles são obrigados a caminhar nas profundezas marítimas, com quantidade insuficiente de oxigênio, para tentarem sobreviver.
+Enredo: Uma equipe de pesquisadores de trabalho aquático para obter a segurança depois que um terremoto devasta seu laboratório subterrâneo. Mas a equipe tem mais do que o oceano seabed a temer.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] ARCHIVE - Ó PROTOTIPO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1a02e92fc6bcf22889987209fc5009fd1edfe66c</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/1tjGwi7Y8Pji1WYKCnvdWuhQz1u.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>2038: George Almore está trabalhando em uma verdadeira AI equivalente humana. Seu mais recente protótipo está quase pronto. Esta fase sensível é também a mais arriscada. Especialmente porque ele tem um objetivo que deve ser escondido a todo custo: estar reunido com sua esposa morta.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] CROCODILOS - A MORTE TE ESPERA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:99365be40b0ebeda413bbcf414d66e720091cfc3</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/9I2ATBaOfwXo23vSBfEAQ3uZhGV.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um casal apaixonado por aventura convence seus amigos a explorar um remoto sistema de cavernas nas florestas australianas. Com uma tempestade se aproximando, eles adentram na caverna, que começa a encher, os deixando presos com um grupo de crocodilos.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] DOOM - A ANIQUILAÇÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:454fe96be39053757bca6e0b77a44d1519bfff5c</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7EGElXVSNnqcPjuhXPd6UVUX1rD.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um grupo de fuzileiros navais espaciais responde a um pedido de socorro em uma base localizada em um lua marciana. Logo descobrem que ela foi invadida por criaturas demoníacas espalhando o caos e devastação.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] NO FUNDO DO MAR III  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0168c231c6a2f09ff3014e9090d8e8ccc7d1556c</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/azvgqitNO0kConxAP0TUjMlpBUI.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>A Doutora Emma Collins e sua equipe estão passando o verão na ilha de Little Happy, estudando o efeito das mudanças climáticas nos grandes tubarões brancos que vêm todos os anos ao berçário próximo para dar à luz. Juntamente com os dois últimos habitantes desta antiga vila de pescadores, sua vida pacífica é interrompida quando uma equipe “científica” liderada por seu ex-namorado e biólogo marinho Richard aparece à procura de três tubarões-touro que logo descobrimos que não são apenas tubarões… e sim máquinas de matar.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] FUGA PELA FRONTEIRA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2e697e9f7084a89ca1061975caaea0b54a8fae7f</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/yTrKZdCoARyXmuDBX7rahgrydhm.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Natal de 1942, os pais de Gerda e Otto são detidos por participação no movimento de resistência norueguês durante a Segunda Guerra. Após a prisão, os irmãos descobrem duas crianças judias escondidas em sua casa. Cabe agora a Gerda e Otto terminar o que seus pais começaram: ajudar Sarah e Daniel a fugir dos nazistas, cruzar a fronteira para a Suécia neutra e reencontrar seus pais.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] AVA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6957a26b9a777de77c53898ad6fa74522e2899d7</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/6llUjNLsLiAcpIOer9LR631HPoU.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Atormentada por dúvidas, uma assassina de elite luta para proteger a si mesma e a sua família depois que uma missão dá errado.
+Enredo: Ava é um assassino mortal que trabalha para uma organização ops preto, viajando pelo mundo especializada em hits de alto perfil. Quando um trabalho passa perigosamente errado ela é forçada a lutar por sua própria sobrevivência.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] BRAHMS - O BONECO DO MAL 2 EM 1  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:56BHFJRQ2VM2DOKWRAHDGG4VAQV4H7NT$nome=O BONECO DO MAL 1</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DD1F638ED00D243596BFF32D1981337E21E2531B$nome=O BONECO DO MAL 2</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/g9WA3biUqXVUU4snaB2f6O24F01.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Desconhecendo a aterrorizante história da Mansão Heelshire, uma jovem família se muda para a propriedade, onde seu jovem filho logo faz um novo amigo perturbador, um boneco estranhamente real que ele chama de Brahms</info>
+</item>
+
+
 
 
 
