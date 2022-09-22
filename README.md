@@ -3,6 +3,14 @@
 
 
 <item>
+<title>[COLOR silver][B] FANTASMAS DE GUERRA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0a3a5bc38599214b9634d02fa10f5903dd0673b0</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/5Ofcmv3WHbQlK4tdjB9JJ0P4qIS.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>No fim da Segunda Guerra Mundial, cinco soldados americanos são ordenados a proteger um castelo na França. Anteriormente ocupado pelo alto comando nazista, o local parece seguro, até o grupo se encontrar com uma ameaça sobrenatural muito mais aterrorizante do que qualquer coisa vista no campo de batalha.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] CORINGA [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fffc2fb73a965e057750e0012c55de0c80d0a3c7</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/xLxgVxFWvb9hhUyCDDXxRPPnFck.jpg</thumbnail>
