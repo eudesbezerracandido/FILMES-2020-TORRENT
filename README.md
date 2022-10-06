@@ -211,7 +211,7 @@
 </item>
 
 <item>
-<title>[COLOR silver][B]BAD BOYS PARA SEMPRE [/COLOR][/B][COLOR yellow] FULL HD [B][/COLOR][/B]</title>
+<title>[COLOR silver][B] BAD BOYS PARA SEMPRE [/COLOR][/B][COLOR yellow] FULL HD [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5dee67b8557eeb9b4e4efada94d96b81f0e69ee5</link>
 <thumbnail>https://br.web.img3.acsta.net/pictures/20/01/28/22/11/0608065.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
@@ -310,7 +310,7 @@ O Dr. Dolittle vive com uma variedade de animais exóticos e conversa com eles d
 <item>
 <title>[COLOR silver][B] ADEUS [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3fb6b47c6090b6da0e90117076074a316c53dd4c</link>
-<thumbnail>https://viatorrents.com/imagens/adeus-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/original/xMrrI6DrYOFHBlxZrmevUH8qhE8.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Um prisioneiro consegue permissão para participar da primeira comunhão da filha. Sua morte acidental durante um tiroteio na favela levanta um esquema de narcotráfico e corrupção policial. Cabe a policia cobrir o caso para impedir o pai de se vingar.</info>
 </item>
@@ -334,7 +334,7 @@ O Dr. Dolittle vive com uma variedade de animais exóticos e conversa com eles d
 <item>
 <title>[COLOR silver][B] EM BUSCA DO PARAISO [/COLOR][/B][COLOR yellow] FULL HD [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1bce8186dcf9f531bc913473ce94124655edb142</link>
-<thumbnail>https://ondeeubaixo.org/imagens/em-busca-do-paraiso-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/original/qpsjIxuGXRbiWPwRv0iDfOpXcwh.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Vivendo em um reino de escuridão, um jovem embarca numa épica jornada em busca da Cidade Celestial. Ele precisará enfrentar diversos perigos e provações apenas com a ajuda de antigo livro. Inspirado no livro O Peregrino, de John Bunyan.</info>
 </item>
@@ -358,7 +358,7 @@ O Dr. Dolittle vive com uma variedade de animais exóticos e conversa com eles d
 <item>
 <title>[COLOR silver][B] O AÇOGUEIRO [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8ad36a4da5a0e5e7c56995e5356e46d623dec33e</link>
-<thumbnail>https://ondeeubaixo.org/imagens/o-acougueiro-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/original/o8e9qY7OPruSSb8i1aiHGGF4EPB.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Numa fazenda isolada, William realiza o seu trabalho. Ele dá um fim nos cadáveres trazidos por gangues locais. Sua filha Gloria já está acostumada a ver gente morta mas acredita que a casa está assombrada por alguns deles. Tudo muda quando William encontra uma moça viva. Ele resolve mantê-la enquanto descobre o que fazer com ela, mas deverá ser rápido, pois as gangues deverão retornar para finalizar o trabalho.</info>
 </item>
@@ -382,7 +382,7 @@ O Dr. Dolittle vive com uma variedade de animais exóticos e conversa com eles d
 <item>
 <title>[COLOR silver][B] FUGA DE PRETÓRIA [/COLOR][/B][COLOR yellow] FULL HD [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:01c240d470c8754afb25f4e3f84a24eac4d469c9</link>
-<thumbnail>https://flixfilmes.org/wp-content/uploads/2020/03/sI4StUppzQHzSU9QPiRUxOvQRvp.jpg</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/original/hCfbTvx2R0fZIeXN0UKC3gfXlvG.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>A história real de Tim Jenkin e Stephen Lee, jovens sul-africanos brancos declarados “terroristas” e presos em 1978 por trabalharem em operações secretas para o ANC, grupo de Nelson Mandela. Encarcerados na prisão de segurança máxima de Pretória, eles decidem enviar uma mensagem clara ao regime do apartheid e fugir! Com engenhosidade de tirar o fôlego, vigilância meticulosa e chaves de madeira criadas para 10 portas de aço, eles fazem um grande caminho até a liberdade.</info>
 </item>
@@ -390,7 +390,7 @@ O Dr. Dolittle vive com uma variedade de animais exóticos e conversa com eles d
 <item>
 <title>[COLOR silver][B] ATTRACTION 2 - A INVASÃO [/COLOR][/B][COLOR yellow] FULL HD [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3a5b9aff3c0b43caadbff4b12afdbb8f0521c72d</link>
-<thumbnail>https://viatorrents.com/capas/attraction-2-invasao-legendado-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/original/zT6jdeKbBlGHpkFbWF7HZNv7rUB.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Um objeto voador não identificado que vem do espaço muda a visão da humanidade sobre a vida em outros planetas. Quando os alienígenas desembarcam na terra, a destruição é documentada pelos moradores de um bairro residencial de Moscovo, que precisam sobreviver enquanto começam a questionar as motivações dos alienígenas.</info>
 </item>
@@ -455,7 +455,7 @@ O Dr. Dolittle vive com uma variedade de animais exóticos e conversa com eles d
 <item>
 <title>[COLOR silver][B] O ESPELHO [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a34f564a18b2743df5aab18b375d544b552f8392</link>
-<thumbnail>https://www.comandotorrenthd.net/wp-content/uploads/2020/07/O-Espelho.jpg</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/original/gF7xD5zASWlPZ2Uf50W2JFw7e3i.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Pensando em aumentar a renda, o eletricista Ray (Nicolas Cage) e a esposa, Maggie (Robin Tunney), decidem comprar um hotel. Ray descobre que em um dos quartos tem um espelho que permite espiar o que está acontecendo lá dentro. Justamente a hóspede deste quarto é encontrada morta e agora Ray se vê como um dos suspeitos.</info>
 </item>
@@ -571,7 +571,7 @@ Enredo: Em um mundo crepuscular da espionagem internacional, um agente da CIA se
 <item>
 <title>[COLOR silver][B] ABAIXO DE NÓS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a6127311ec0d3860d3b60296368b652a3e0bedf4</link>
-<thumbnail>https://viatorrents.com/imagens/abaixo-de-nos-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/original/cLQgwCzGmlJ5vcpfBAuYqvd0jDS.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Trabalhadores ilegais são atraídos para a casa de uma mulher rica com a promessa de trabalho, e descobrem o terrível destino que ela tem reservado para eles.</info>
 </item>
