@@ -147,7 +147,7 @@
 </item>
 
 <item>
-<title>[COLOR silver][B]STAR WARS – A ASCENSÃO SKYWALKER [/COLOR][/B][COLOR yellow] FULL HD [B][/COLOR][/B]</title>
+<title>[COLOR silver][B] STAR WARS – A ASCENSÃO SKYWALKER [/COLOR][/B][COLOR yellow] FULL HD [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:efe34e92c3ea469e66357b288cd91ec7608b3d98</link>
 <thumbnail>https://img.comunidades.net/mos/mosqueteirasliterarias/1F2Vy0c25102019162900.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
@@ -550,31 +550,6 @@ Enredo: Em um mundo crepuscular da espionagem internacional, um agente da CIA se
 <thumbnail>https://cinepop.com.br/wp-content/uploads/2020/07/novosmutantes_21.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Cinco jovens mutantes descobrem o alcance de seus poderes e lidam com traumas do passado enquanto são mantidos presos contra a vontade num sinistro hospital.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] ESQUADRÃO LOBO  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2512209875ea6ad4de752a21dde80ac21c02fd08</link>
-<thumbnail>https://limaomecanico.com.br/wp-content/uploads/2020/02/Boru-Esquadr%C3%A3o-Lobo.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info> Retirado do explosivo penhasco do sexto episódio da minissérie, o filme segue a angustiante tentativa de golpe de Estado de 15 de julho e os heróis das Operações Especiais da Polícia e das Forças Especiais que colocam tudo em risco para impedir uma invasão cultista da Turquia.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] ABAIXO DE NÓS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a6127311ec0d3860d3b60296368b652a3e0bedf4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/cLQgwCzGmlJ5vcpfBAuYqvd0jDS.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Trabalhadores ilegais são atraídos para a casa de uma mulher rica com a promessa de trabalho, e descobrem o terrível destino que ela tem reservado para eles.</info>
-</item>
-
-<item>
-<item>
-<title>[COLOR silver][B] LIGH LIFE - UMA NOVA VIDA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</item>              
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cfe4b447fc27628d62b50e9d82a03b187d7b8380</link>
-<thumbnail>https://i.ytimg.com/vi/j9SPD4K1oMU/movieposter.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Um Grupo de criminosos aceita um acordo para trocar suas penas pela participação em uma missão espacial à procura de energias alternativas, mas a viagem toma rumos inesperados quando uma tempestade de raios cósmicos atinge a nave.</info>
 </item>
 
 <item>
@@ -1239,6 +1214,31 @@ Enredo: Ava é um assassino mortal que trabalha para uma organização ops preto
 <thumbnail>https://www.themoviedb.org/t/p/original/g9WA3biUqXVUU4snaB2f6O24F01.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Desconhecendo a aterrorizante história da Mansão Heelshire, uma jovem família se muda para a propriedade, onde seu jovem filho logo faz um novo amigo perturbador, um boneco estranhamente real que ele chama de Brahms</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] ESQUADRÃO LOBO  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2512209875ea6ad4de752a21dde80ac21c02fd08</link>
+<thumbnail>https://limaomecanico.com.br/wp-content/uploads/2020/02/Boru-Esquadr%C3%A3o-Lobo.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Retirado do explosivo penhasco do sexto episódio da minissérie, o filme segue a angustiante tentativa de golpe de Estado de 15 de julho e os heróis das Operações Especiais da Polícia e das Forças Especiais que colocam tudo em risco para impedir uma invasão cultista da Turquia.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] ABAIXO DE NÓS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a6127311ec0d3860d3b60296368b652a3e0bedf4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/cLQgwCzGmlJ5vcpfBAuYqvd0jDS.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Trabalhadores ilegais são atraídos para a casa de uma mulher rica com a promessa de trabalho, e descobrem o terrível destino que ela tem reservado para eles.</info>
+</item>
+
+<item>
+<item>
+<title>[COLOR silver][B] LIGH LIFE - UMA NOVA VIDA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</item>              
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cfe4b447fc27628d62b50e9d82a03b187d7b8380</link>
+<thumbnail>https://i.ytimg.com/vi/j9SPD4K1oMU/movieposter.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um Grupo de criminosos aceita um acordo para trocar suas penas pela participação em uma missão espacial à procura de energias alternativas, mas a viagem toma rumos inesperados quando uma tempestade de raios cósmicos atinge a nave.</info>
 </item>
 
 
