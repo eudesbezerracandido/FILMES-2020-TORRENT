@@ -453,14 +453,6 @@ O Dr. Dolittle vive com uma variedade de animais exóticos e conversa com eles d
 </item>
 
 <item>
-<title>[COLOR silver][B] O ESPELHO [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a34f564a18b2743df5aab18b375d544b552f8392</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/gF7xD5zASWlPZ2Uf50W2JFw7e3i.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info> Pensando em aumentar a renda, o eletricista Ray (Nicolas Cage) e a esposa, Maggie (Robin Tunney), decidem comprar um hotel. Ray descobre que em um dos quartos tem um espelho que permite espiar o que está acontecendo lá dentro. Justamente a hóspede deste quarto é encontrada morta e agora Ray se vê como um dos suspeitos.</info>
-</item>
-
-<item>
 <title>[COLOR silver][B] FASCINAÇÃO MORTAL - O RETORNO [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:96b774b0beec773b7d726cb6d9a61c1dfa97b488</link>
 <thumbnail>https://media.fstatic.com/HGfTEqI4l8wes0dBKgvj_NAMtVA=/290x478/smart/media/movies/covers/2018/10/p15523380_v_v8_aa.jpg</thumbnail>
@@ -596,7 +588,7 @@ Enredo: Em um mundo crepuscular da espionagem internacional, um agente da CIA se
 <item>
 <title>[COLOR silver][B] ALMA DE GUERREIRO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a8a9ce28a17cfb9095ce54c411ae405cfbf5f1f0</link>
-<thumbnail>https://torrentdublado.com/imagens/alma-de-guerreiro-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/original/g20Xg263ckStqtHwvoQHfxb5UUt.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Seguidores de duas religiões lutam entre si em uma batalha de proporções gigantescas. Um estranho se encontra no meio do conflito e é pressionado a escolher um lado. No final, ele decide que nenhum dos lados merece seu favor e deve lutar por seus próprios desejos.</info>
 </item> 
@@ -620,7 +612,7 @@ Enredo: Em um mundo crepuscular da espionagem internacional, um agente da CIA se
 <item>
 <title>[COLOR silver][B] LUTA PELA FÉ [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:623aa406c0b7467bbf76c56b95f9ae16f33377d2</link>
-<thumbnail>https://www.thepiratefilmestorrent.me/wp-content/uploads/2020/11/Luta-Pela-F%C3%A9.jpg</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/original/9tN9nPpVA1qkejzwi5yk3W1NjAV.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Quando Willard e Rebecca Bean são chamados à uma cidade que são hostis com eles, eles devem escolher se querem lutar por seu direito de viver lá ou amar seus vizinhos hostis.</info>
 </item>
@@ -628,7 +620,7 @@ Enredo: Em um mundo crepuscular da espionagem internacional, um agente da CIA se
 <item>
 <title>[COLOR silver][B] A LIÇÃO DE MOREMI [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:746806189936643f76426af8b52952554746e789</link>
-<thumbnail>https://entreterse.s3.amazonaws.com/wp-content/uploads/2020/11/A-li%C3%A7%C3%A3o-de-moremi-poster2-724x1024.jpg</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/original/k8medyObgY0XTt2dL7BqjxXkqmw.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Uma estudante brilhante na Nigéria assume o estabelecimento acadêmico ao relatar um professor popular que tentou estuprá-la. Baseado em fatos reais.</info>
 </item>
@@ -644,7 +636,7 @@ Enredo: Em um mundo crepuscular da espionagem internacional, um agente da CIA se
 <item>
 <title>[COLOR silver][B] VERDADE E HONRA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3574ff0f028bf8e745da6b7e18de8f20f173d5bb</link>
-<thumbnail>https://viatorrents.com/imagens/verdade-e-honra-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/original/wiWxWuOoWKpygNHR5q3sciuvC1U.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Baseada em uma investigação real dos dias atuais. A história é centrada no jovem investigador do Pentágono Scott Huffman que luta contra a máquina da política de Washington, EUA. Mesmo relutante, ele se une a um grupo de veteranos para tentar convencer o Congresso americano de dar uma Medalha de Honra para William Pitsenbarger, que se sacrificou para salvar 60 soldados durante a Guerra do Vietnã.</info>
 </item>
@@ -668,7 +660,7 @@ Enredo: Em um mundo crepuscular da espionagem internacional, um agente da CIA se
 <item>
 <title>[COLOR silver][B] AO FIM DA TRILHA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dd835767fe0fda2e735e8725475ff2b5ab80f57a</link>
-<thumbnail>https://viatorrents.com/imagens/ao-fim-da-trilha-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/original/3qv9uoTDFKL0t2R1LSJBYu1tTIX.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Três irmãos vão para as montanhas para se despedir do pai falecido e espalhar suas cinzas. Agora, juntos pela primeira vez em muitos anos, eles devem encontrar uma maneira de se reconectar, ou então vão continuar se afastando, até que seus vínculos entre si desaparecem para sempre.</info>
 </item>
@@ -676,7 +668,7 @@ Enredo: Em um mundo crepuscular da espionagem internacional, um agente da CIA se
 <item>
 <title>[COLOR silver][B] O CADERNO DE TOMY - BASEADOS EM FATOS REAIS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:937c9f9f2bbca2777a03c79bf77d3769bcfc8379</link>
-<thumbnail>https://viatorrents.com/imagens/o-caderno-de-tomy-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/original/nI5XuD0Il8LgsSyPvXESdafAtaD.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Lutando contra um câncer terminal, uma mulher escreve um caderno único sobre a vida, a morte e o amor de seu filho para se lembrar dela. Baseado em uma história verdadeira.</info>
 </item>
@@ -718,7 +710,7 @@ Enredo: Marselha. Tudo começa com carnificina digna do assassinato do bar du Te
 <item>
 <title>[COLOR silver][B] SOU SUA MULHER [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:75677aaff10e6ac0013dbc8fad1babc80edde936</link>
-<thumbnail>https://torrentsfilmeshd.tv/wp-content/uploads/2020/12/Eu-sou-sua-mulher-250x375.jpg</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/original/4mGyY20q4tI4N7PPet2M2SZPJi3.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Jean precisa fugir com seu filho devido aos crimes do marido. Suas vidas se entrelaçam com um homem e uma mulher, formando uma parceria improvável que os ensina mais do que apenas como sobreviver.</info>
 </item>
@@ -726,7 +718,7 @@ Enredo: Marselha. Tudo começa com carnificina digna do assassinato do bar du Te
 <item>
 <title>[COLOR silver][B] ÁS CEGAS  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0b5471366966dfb0ae07453896314922dbda9b0f</link>
-<thumbnail>https://ondeeubaixo.org/imagens/as-cegas-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/original/7UEqRremYl9cxCPAApYtvqRpcqW.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Após um violento assalto, Ellen fica cega e se torna reclusa do mundo, vivendo dentro de seu apartamento, esperando para que o assaltante retorne e faça seu próximo passo.</info>
 </item>
@@ -734,7 +726,7 @@ Enredo: Marselha. Tudo começa com carnificina digna do assassinato do bar du Te
 <item>
 <title>[COLOR silver][B] FORÇAS MALIGNAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0f1a19765996d31f3049d0a100286365c38037f5</link>
-<thumbnail>https://ondeeubaixo.org/imagens/forcas-malignas-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/original/28eUhtgJEFj4KrBXsrt3VaYhZ4E.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Ben está viajando pro Camboja e conhece Amber. Apaixonado a primeira vista, ele descobre que ela carrega algo dentro de si e decide acompanhá-la até um curandeiro que promete livrá-la do mal.</info>
 </item>
@@ -764,9 +756,9 @@ Enredo: Marselha. Tudo começa com carnificina digna do assassinato do bar du Te
 </item>
 
 <item>
-<title>[COLOR silver][B] ARCHIVE (LEGE.) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9aa503adc2bf560b5c55ffbea68abe03c699aa60</link>
-<thumbnail>https://pipocamoderna.com.br/wp-content/uploads/2020/06/archive_xlg.jpg</thumbnail>
+<title>[COLOR silver][B] ARCHIVE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1a02e92fc6bcf22889987209fc5009fd1edfe66c</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/1tjGwi7Y8Pji1WYKCnvdWuhQz1u.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>2038: George Almore está trabalhando em uma verdadeira IA equivalente a humanos. Seu último protótipo está quase pronto. Essa fase sensível também é a mais arriscada. Especialmente porque ele tem um objetivo que deve estar oculto a todo custo: reunir-se com sua esposa morta.
 Enredo: 2038: George Almore está trabalhando em um verdadeiro AI humano-equivalente. Seu mais recente protótipo está quase pronto. Esta fase é sensível também o maior risco. Especialmente porque ele tem uma meta que deve ser escondido em todos os custos: sendo reunido com sua esposa morta.</info>
@@ -784,7 +776,7 @@ Enredo: 2038: George Almore está trabalhando em um verdadeiro AI humano-equival
 <item>
 <title>[COLOR silver][B] O ESPELHO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a34f564a18b2743df5aab18b375d544b552f8392</link>
-<thumbnail>https://i1.wp.com/plustorrents.com/wp-content/uploads/2020/08/O-Espelho.jpg?resize=240%2C340&ssl=1</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/original/gF7xD5zASWlPZ2Uf50W2JFw7e3i.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Pensando em aumentar a renda, o eletricista Ray (Nicolas Cage) e a esposa, Maggie (Robin Tunney), decidem comprar um hotel. Ray descobre que em um dos quartos tem um espelho que permite espiar o que está acontecendo lá dentro. Justamente a hóspede deste quarto é encontrada morta e agora Ray se vê como um dos suspeitos.</info>
 </item>
@@ -824,15 +816,15 @@ Enredo: 2038: George Almore está trabalhando em um verdadeiro AI humano-equival
 <item>
 <title>[COLOR silver][B] O GUARDIÃO DOS MUNDOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9a4a1f6cebb86a928534a10396d79a74206c7afa</link>
-<thumbnail>https://ondeeubaixo.org/imagens/o-guardiao-dos-mundos-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/original/6McPx1oITdAFuaDlzl5NRCrcTOO.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>O jovem moscovita Kirill é um talentoso designer de jogos de computador. Um dia, ele é completamente apagado da memória de todos que ele conhecia e amava. Kirill descobre que ele foi escolhido para uma missão importante e misteriosa: tornar-se um funcionário da alfândega entre mundos paralelos, dos quais existem dezenas no universo. Kirill desvendará o mistério desses mundos e quem os controla? E a nossa Terra é realmente apenas um "rascunho" imaginário - um mundo paralelo - que na realidade não existe ...</info>
 </item>
 
 <item>
-<title>[COLOR silver][B] VIOLÃO  LEG. [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<title>[COLOR silver][B] AMEAÇA NO ESPAÇO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f8174fdd14130147b3024287d61057e03dfabba5</link>
-<thumbnail>https://image.tmdb.org/t/p/w342/JmtaGCYsTv484MByG2AqmVqNcf.jpg</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/original/nv4QdbPFKg98gbaG0nj4Mhjcks.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>À beira da paternidade, um mecânico júnior a bordo de uma arca interestelar para a Nova Terra deve superar um terror cósmico malévolo com a intenção de usar a nave espacial como uma arma.</info>
 </item>
@@ -904,7 +896,7 @@ Enredo: 2038: George Almore está trabalhando em um verdadeiro AI humano-equival
 <item>
 <title>[COLOR silver][B] UMA SEREIA EM PARIS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5e6ea3a7fa96270b6113d5b52818af231f7d8581</link>
-<thumbnail>https://1.bp.blogspot.com/-0OsSM9NZfao/XzmO6fOe7mI/AAAAAAAAYQQ/tqVrzRDkUsUVqMEo3HH574XUNUNtwaGJgCLcBGAsYHQ/s1600/Captura%2Bde%2BTela%2B2020-08-16%2Ba%25CC%2580s%2B4.37.06%2BPM.png</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/original/gxLjHNQKNsZXOHW2G4WQIzM2gI.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Gaspard passou por rompimentos e acredita que não tem mais amor para dar. Um dia, ele se cruza com uma sereia ferida, Lula, pelo Sena em Paris, a leva para casa a fim de que cure em sua banheira, mas descobre que qualquer homem que se apaixona por ela morre. Inicialmente imune ao charme cativante, Gaspard se apaixona lentamente por Lula, que também se apaixona por ele.</info>
 </item>
@@ -912,7 +904,7 @@ Enredo: 2038: George Almore está trabalhando em um verdadeiro AI humano-equival
 <item>
 <title>[COLOR silver][B] DUELO NO ASFALTO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:92f087952057bf4f87958b4166eb98cdaf467bf4</link>
-<thumbnail>https://ondeeubaixo.org/imagens/duelo-no-asfalto-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/original/a7QZdgQpyelhlehIyT6fiwSblAl.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Roy derrapa feio na véspera do casamento e, para não perder a noiva, acaba aceitando correr contra uma nova adversária na pista de Nurburgring, na Alemanha.</info>
 </item>
@@ -934,9 +926,9 @@ Enredo: 2038: George Almore está trabalhando em um verdadeiro AI humano-equival
 </item>
 
 <item>
-<title>[COLOR silver][B] OS SEGREDOS QUE MANTEMOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<title>[COLOR silver][B] OS SEGREDOS QUE GUARDAMOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:52b4f676f43b430ac9a74630d7ec962aec5475e6</link>
-<thumbnail>https://ondeeubaixo.org/imagens/os-segredos-que-mantemos-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/original/4WjqeW9Bg9pFmS1PDHz0h9gCHTP.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Maja está reconstruindo sua vida junto com seu marido Dobie em Nova York após a Segunda Guerra Mundial. Quando eles encontram um homem estranhamente familiar, sua vida começa a se desfazer. Eles se perguntam, este poderia ser o oficial que foi um dos seus principais torturadores em Birkenau anos atrás?</info>
 </item>
@@ -984,7 +976,7 @@ Enredo: 2038: George Almore está trabalhando em um verdadeiro AI humano-equival
 <item>
 <title>[COLOR silver][B] MEIA IRMÃ [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8ac49b8f303b1c4b6b62a98f61ef2225cf374502</link>
-<thumbnail>https://www.thepiratefilmestorrent.tv/wp-content/uploads/2020/11/Meia-irm%C3%A3.jpg</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/original/7IIJf11Zy6vxbpBWB293Ya5C2nE.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Sinaloa (Sophie Reid) é uma jovem britânica que ruma em direção ao Texas para encontrar Merle (Allison Tolman), sua meia-irmã por parte do seu falecido pai, que era músico do ritmo country. Não demora para que Sinaloa se insira na vida de Merle. Sua música acorda algo na vida da sua nova meia-irmã, apagando as dúvidas do parentesco entre as duas. Enquanto o legado musical da família trouxe esta estranha para a cidade, motivos mais obscuros estão entrelaçados na música que Sinaloa canta, mostrando sinais de uma violenta raiva construída há anos.</info>
 </item>
