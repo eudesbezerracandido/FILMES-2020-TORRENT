@@ -3,6 +3,14 @@
 
 
 <item>
+<title>[COLOR silver][B]  BLECAUTE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:36708af34785f30cf7c21597b9b4dc010767cbf0</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/2jPm8nfFkrWOdmysEPvChFvDa0O.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Quando um ataque nuclear causa um pulso eletromagnético que corta toda a energia, água e comunicação para todo o oeste dos Estados Unidos, Reese se vê mergulhada em uma luta muito real para sobreviver. Enquanto o pandemônio toma conta de sua cidade, Reese e seu pai partem em uma jornada desesperada em busca de segurança – uma perigosa jornada por um mundo enlouquecido, onde todo encontro com um estranho pode ser o seu último.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] FANTASMAS DE GUERRA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0a3a5bc38599214b9634d02fa10f5903dd0673b0</link>
 <thumbnail>https://image.tmdb.org/t/p/original/5Ofcmv3WHbQlK4tdjB9JJ0P4qIS.jpg</thumbnail>
