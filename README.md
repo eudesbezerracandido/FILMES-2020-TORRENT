@@ -3,6 +3,14 @@
 
 
 <item>
+<title>[COLOR silver][B] AMOR EN POLVO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:089aca4ef81f467115b1c0d497cb8a259e696450</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/j1HciMLzAhR9iLsDmMN6kWA2mOQ.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Pablo (Enrique Arce) e Blanca (Lorena López) decidiram fazer uma troca de casais, desobedecendo ? primeira regra fundamental: não fazer isso se você estiver em crise. Para fazer isso, eles chamam dois de seus amigos solteiros, Mia (Macarena Gómez) e Lucas (Luis Miguel Seguí), também desobedecendo ? segunda regra: sempre faça isso com outro casal.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B]  BLECAUTE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:36708af34785f30cf7c21597b9b4dc010767cbf0</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/2jPm8nfFkrWOdmysEPvChFvDa0O.jpg</thumbnail>
