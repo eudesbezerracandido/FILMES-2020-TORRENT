@@ -3,6 +3,14 @@
 
 
 <item>
+<title>[COLOR silver][B] HARRIET- [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3DB8070B2AFAE6845F30521977436671E483BF42</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/4M6hxvrWol8R6NjNAFWtMx1Pr6v.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>A história de Harriet Tubman, ativista política que, durante a Guerra Civil americana, ajudou centenas de escravos a fugirem do sul dos Estados Unidos, logo depois que ela mesma tivesse conseguido escapar da escravidão, no ano de 1849. Suas ações contribuíram fortemente para que a história tomasse um novo direcionamento.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] AMOR EN POLVO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:089aca4ef81f467115b1c0d497cb8a259e696450</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/j1HciMLzAhR9iLsDmMN6kWA2mOQ.jpg</thumbnail>
