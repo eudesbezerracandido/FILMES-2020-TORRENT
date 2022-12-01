@@ -3,6 +3,14 @@
 
 
 <item>
+<title>[COLOR silver][B] ACERTANDO AS CONTAS COM O DIABO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:41990b0ee2257b83f13e17f7ba6c306656d9aebe</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/lwZxkJqGJIqXi4WnJHDz8HJLevh.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Depois do desaparecimento do seu marido, Lemon, uma fazendeira em uma comunidade isolada, deve pagar o débito dele para salvar a vida do próprio filho. Armada com inteligência e ferocidade, Lemon deve descobrir o mistério que seu marido deixou pra trás ou perder tudo o que ela ama.d</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] HARRIET- [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3DB8070B2AFAE6845F30521977436671E483BF42</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/4M6hxvrWol8R6NjNAFWtMx1Pr6v.jpg</thumbnail>
