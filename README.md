@@ -2,6 +2,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] CAÇADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c88f60031df38a317cb38730fa549e1476b792d3</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/kgtXt56vGKXKqKmD8cFoqGQKhaY.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Joseph e sua família vivem no deserto remoto como caçadores de peles, mas sua tranquilidade começa a ser ameaçada quando eles pensam que estão sendo caçados pelo retorno de um lobo rebelde e Joseph os deixa para trás para rastreá-lo.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] ACERTANDO AS CONTAS COM O DIABO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:41990b0ee2257b83f13e17f7ba6c306656d9aebe</link>
