@@ -586,14 +586,6 @@ Enredo: Em um mundo crepuscular da espionagem internacional, um agente da CIA se
 </item>
 
 <item>
-<title>[COLOR silver][B]  MUSSUM - DOCUMENTARIO  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7c08fc583d46936b0cae8556dae99d2207505412</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/ec0UeELw5HnGHzwkDtMZstFYpGC.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>O documentário conta a trajetória do músico e comediante Mussum de forma irreverente e com estética gráfica inovadora nos cenários e composição visual. Primeiro como vocalista do grupo Os Originais do Samba e, depois, no cinema e na TV, como integrante do humorístico Os Trapalhões, grupo que revolucionou a forma de fazer humor na teledramaturgia brasileira.</info>
-</item>
-
-<item>
 <title>[COLOR silver][B] OS NOVOS MUTANTES  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6bde5da2a0b8aedffad46f544bf11a8793cbafbd</link>
 <thumbnail>https://cinepop.com.br/wp-content/uploads/2020/07/novosmutantes_21.jpg</thumbnail>
